@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Daftar Harga Konveksi Jahit Seragam Depok
+title: Daftar Harga Konveksi Jahit Seragam Jakarta Depok
 permalink: /daftar-harga-konveksi-seragam.html
 redirect_from: /p/daftar-harga-konveksi-seragam.html
 is_post: true
 ---
-Kami menerima jahit seragam dengan metode CMT ataupun FOB, perhitungan bisa berupa satuan (atasan saja atau bawahan saja) ataupun set. Untuk perhitungan pembuatan seragam secara set rata-rata lebih murah hingga Rp 20.000 tergantung model dan tambahan aplikasi seperti bordir. 
+Kami menerima **jahit seragam konveksi CMT ataupun FOB**, perhitungan bisa berupa satuan (atasan saja atau bawahan saja) ataupun set. Untuk perhitungan pembuatan seragam secara set rata-rata lebih murah hingga Rp 20.000 tergantung model dan tambahan aplikasi seperti bordir. 
 
 ## Yang Perlu Diperhatikan Sebelum Anda Menjahit Seragam Di Kami
 berikut yang anda harus perhatikan sebelum anda menjahit seragam di kami:
@@ -32,8 +32,8 @@ Untuk daftar harga dibawah adalah harga jahit seragam secara CMT (bahan bawa sen
 
 Harga diatas adalah harga CMT tanpa bahan untuk harga yang include bahan silahkan kontak kami karena harga bahan beda tipe beda warna beda harga.
 
-## Lokasi Maklun Jait Seragam:
+## Lokasi Maklun Jait Seragam
 Jl. Merpati 3 komplek griya cinere, limo, depok , 16515.
 
-## Hubungi:
-Kemal 0838 907 22797 (WA/Telp)
+## Contact Konveksi Seragam Jakarta Depok
+Kemal **0838 907 22797** (WA/Telp)
