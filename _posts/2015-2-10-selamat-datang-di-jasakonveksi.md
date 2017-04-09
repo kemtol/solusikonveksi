@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Selamat Datang di Jasakonveksi Jakarta
+redirect_from: /2015/02/halo-selamat-datang-di-jasa-konveksi.html
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/maklun-distro-baju-kemeja-depok.jpg) 
