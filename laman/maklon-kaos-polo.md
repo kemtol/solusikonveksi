@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Daftar Harga Konveksi Kaos Lusinan Depok
-permalink: /daftar-harga-konveksi-kaos.html
+permalink: daftar-harga-konveksi-kaos.html
+redirect_from: /p/daftar-harga-konveksi-kaos.html
 is_post: true
 ---
 ## Daftar Harga Konveksi Lusinan T-Shirt Sablon Manual
