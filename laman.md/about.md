@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+is_postorpage: true
 ---
 
 Some information about you!
