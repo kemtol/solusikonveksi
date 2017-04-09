@@ -67,12 +67,6 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       is_post: true
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "pages" # previously `post` in Jekyll 2.2.
-    values:
-      is_post: true
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
