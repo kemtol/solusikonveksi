@@ -1,6 +1,7 @@
 ---
 title: About Us
 permalink: /about/
+is_post: true
 ---
 
 Some information about you!
