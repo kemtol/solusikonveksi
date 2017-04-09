@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Daftar Harga Konveksi Jahit Seragam Depok
+permalink: /daftar-harga-konveksi-seragam.html
 redirect_from: /p/daftar-harga-konveksi-seragam.html
 is_post: true
 ---
