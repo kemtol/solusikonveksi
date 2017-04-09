@@ -3,6 +3,7 @@ title: Makloon Jahit Baju Seragam Mulai Rp 35.000
 ---
 
 Kami menerima jasa pembuatan kemeja pria. Jasa konveksi kami terleteak di kawasan jakarta selatan dan depok. Harga konveksi kemeja dangat bervariatif tergantung tingkat kesulitan dan jumlahnya.
+<!--more-->
 
 Detail konveksi kemeja:
 Min quantity 4 kodi untuk 2 model.
