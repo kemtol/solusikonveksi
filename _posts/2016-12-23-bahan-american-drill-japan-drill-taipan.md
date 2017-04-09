@@ -1,6 +1,6 @@
---
+---
 title: American Drill, Japan Drill, Taipan Tropical Dan Bahan Seragam Lainnya
---
+---
 
 Terdapat banyak macam bahan untuk dijadikan seragam. Sebelum kita bahas biasanya jenis seragam itu dibagi menjadi 2:
 
