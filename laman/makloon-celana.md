@@ -3,6 +3,7 @@ layout: page
 title: Daftar Harga Konveksi Celana
 permalink: daftar-harga-jahit-celana.html
 is_post: true
+redirect_from: /p/daftar-harga-jahit-celana.html
 ---
 
 Anda ingin menjahit celana untuk kebutuhan pengadaan seragam kantor? Untuk distro? atau bahkan untuk OL Shop anda?
