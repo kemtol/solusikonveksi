@@ -19,7 +19,7 @@ Berikut daftar jenis tipe sablon yang bisa anda pesan di konveksi kaos depok kam
 - Sablon Cabut Warna / Discharge
 - Sablon Sublim Paper (Tidak bisa dikain katun)
 
-##Tata Cara Pemesanan T-Shirt Sablon Manual
+## Tata Cara Pemesanan T-Shirt Sablon Manual
 - Tentukan desain kaos yang akan di pesan dan silahkan di kirim format jpg/png/psd ke kami melalui WA.
 - Setelah kami mendapatkan rancangan design T-Shirt peawaran harga akan kami kirim.
 - Bila sepakat lanjut sample jika diatas 4 lusin.
