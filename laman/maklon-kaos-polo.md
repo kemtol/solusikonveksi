@@ -1,7 +1,7 @@
 ---
 title: Daftar Harga Konveksi Kaos Lusinan Depok
 permalink: /daftar-harga-konveksi-kaos.html
-is_post:true
+is_post: true
 ---
 ## Daftar Harga Konveksi Lusinan T-Shirt Sablon Manual
 Berikut daftar harga konveksi kaos, untuk kaos promosi ataupun kaos distro. Bahan standard kami adalah katun combed 20s dan 30s ukuran standar pria/wanita dewasa:
