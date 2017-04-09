@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Beda Konveksi CMT, FOB, Apparel dan Konveksi Seragam
+redirect_from: /2016/12/beda-konveksi-cmt-fob-apparel-dan.html
 ---
 Kemarin ada calon customer menanyakan apakah bisa kami menjait kaoskaki untuk keperluan tender pengadaan di salah satu institusi pemerintahan. Dengan pasti saya menjawab tidak bisa. Kenapa? Bukan karena kami tidak tertarik namun lebih ke arah bukan spesifikasi kami.
 <!--more-->
