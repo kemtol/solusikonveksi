@@ -5,6 +5,8 @@ permalink: daftar-harga-konveksi-kaos.html
 redirect_from: /p/daftar-harga-konveksi-kaos.html
 is_post: true
 ---
+![Makloon jahit kaos polos]({{ site.baseurl }}/images/pilihan-warna-kaos.jpg)
+
 ## Daftar Harga Konveksi Lusinan T-Shirt Sablon Manual
 Berikut daftar harga konveksi kaos, untuk kaos promosi ataupun kaos distro. Bahan standard kami adalah katun combed 20s dan 30s ukuran standar pria/wanita dewasa:
 - Harga start dari 70.000 / pcs tergantung design
