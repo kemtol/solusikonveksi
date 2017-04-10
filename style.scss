@@ -214,6 +214,14 @@ img {
   @include mobile {
     margin: 3px 0;
   }
+	span.no-hp{
+		background: yellow;
+		color: #111;
+		font-weight: bold;
+		padding: 0.5rem;
+		display: inline-block;
+		margin-top:1rem;
+	}
 }
 
 nav {
