@@ -254,17 +254,19 @@ nav {
   }
 
   a {
-    padding: 0.5rem;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+	padding: 0.5rem;
+	color: $darkGray;
+	text-align: right;
+	font-weight: 300;
+	letter-spacing: 1px;
 	display:inline-block;
+	font-size: 1rem;
+	font-weight: bold;
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
+	@include mobile {
+		margin: 0 10px;
+		color: $blue;
+	}
   }
 }
 
