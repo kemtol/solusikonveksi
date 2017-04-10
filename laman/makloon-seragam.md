@@ -5,6 +5,7 @@ permalink: daftar-harga-konveksi-seragam.html
 redirect_from: /p/daftar-harga-konveksi-seragam.html
 is_post: true
 ---
+![Makloon jahit seragam depok]({{ site.baseurl }}/images/maklon-seragam-depok.jpg)
 Kami menerima **jahit seragam konveksi CMT ataupun FOB**, perhitungan bisa berupa satuan (atasan saja atau bawahan saja) ataupun set. Untuk perhitungan pembuatan seragam secara set rata-rata lebih murah hingga Rp 20.000 tergantung model dan tambahan aplikasi seperti bordir. 
 
 ## Yang Perlu Diperhatikan Sebelum Anda Menjahit Seragam Di Kami
