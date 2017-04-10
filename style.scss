@@ -270,6 +270,28 @@ nav {
   }
 }
 
+#menutop{
+	list-style:none;
+	display:inline-block;
+	li{
+		float:left;
+		width:125px;
+		text-align:center;
+		margin:5px 10px;
+		a{
+			display:block;
+			height:125px;
+			border-radius:50%;
+			overflow:hidden;
+			box-sizing:border-box;
+			border:3px solid #333;
+			img{width:100%}
+		}
+		a:hover{
+			border:3px solid red;
+		}
+	}
+}
 //
 // .main
 //
