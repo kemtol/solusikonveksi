@@ -5,8 +5,9 @@ redirect_from:
 - /2015/02/halo-selamat-datang-di-jasa-konveksi.html
 - /post/159295899312/halo-selamat-datang-di-jasa-konveksi-jakarta
 tags:
-- jekyll
-- code
+- konveksi jakarta
+- konveksi depok
+- konveksi seragam
 ---
 
 ![Konveksi murah jakarta]({{ site.baseurl }}/images/maklun-distro-baju-kemeja-depok.jpg) 
