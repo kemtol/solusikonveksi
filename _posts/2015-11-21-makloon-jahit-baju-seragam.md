@@ -5,7 +5,7 @@ redirect_from:
 - /2015/11/makloon-jahit-baju-seragam-jakarta-depok.html
 - /2015/11/jasa-konveksi-kemeja-pria-start-rp-35000.html
 ---
-![Makloon jahit seragam murah]({{ site.baseurl }}/maklon-seragam-depok.jpg)
+![Makloon jahit seragam murah]({{ site.baseurl }}/images/maklon-seragam-depok.jpg)
 
 **Kami menerima jasa makloon jait baju seragam untuk keperluan kantor, event atau distro anda.** Harga makloon jait baju seragam sangat bervariatuf tergantung dari tingkat kesulitan.
 <!--more-->
