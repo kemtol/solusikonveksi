@@ -2,6 +2,7 @@
 title: American Drill, Japan Drill, Taipan Tropical Dan Bahan Seragam Lainnya
 redirect_from: /post/159296573137/bahan-american-drill-japan-drill-taipan
 ---
+![Makloon jahit seragam murah]({{ site.baseurl }}/images/daftar-harga-kain-american-drill-orlando-jasa-konveksi-seragam-jakarta.jpg)
 
 Terdapat banyak macam bahan untuk dijadikan seragam. Sebelum kita bahas biasanya jenis seragam itu dibagi menjadi 2:
 
