@@ -1,7 +1,8 @@
 ---
 title: Tentang Jasakonveksi.com
-permalink: /about/
+permalink: /tentang-jasa-konveksi.html
 is_post: true
+redirect_from: /about/
 ---
 
 ## Kami Adalah Layanan Jasa Konveksi Yang berpusat Di Jakarta
