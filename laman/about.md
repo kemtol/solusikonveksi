@@ -1,15 +1,25 @@
 ---
-title: About Us
+title: Tentang Jasakonveksi.com
 permalink: /about/
 is_post: true
 ---
 
-Some information about you!
+## Kami Adalah Layanan Jasa Konveksi Yang berpusat Di Jakarta
+Seperti tulisan diatas, kami adalah layanan jasa konveksi yang berpusat di Jakarta dengan mitra konveksi lainnya yang terletak di Bandung dan Joglo.
 
-### More Information
+## Mitra Konveksi Jakarta
+Melayani jasa konveksi jahit berupa:
+- FOB kaos, polo, sweater distro dan promosi.
 
-A place to include any other types of information that you'd like to include about yourself.
+## Mitra Konveksi Bandung
+Melayani jasa konveksi jahit berupa:
+- CMT busana pria, wanita, muslim, casual dan apparel distro.
+- FOB kaos, polo dan seragam promosi ataupun distro
 
-### Contact me
+## Mitra Konveksi Depok
+Melayani jasa konveksi jahit berupa:
+- CMT pria, wanita, muslim, casual atau apparel distro.
+- FOB polo dan seragam promosi ataupun distro
 
-[email@domain.com](mailto:email@domain.com)
+## Alamat Kontak Jasakonveksi.com
+WA: 083890722797
