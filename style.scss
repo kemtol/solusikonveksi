@@ -242,6 +242,13 @@ img {
 	}
 }
 
+.col-70, .col-30{
+	padding:0 1rem;
+	@include mobile{
+		padding:none;
+	}
+}
+
 .col-70{
 	float:left;
 	width:70%;
