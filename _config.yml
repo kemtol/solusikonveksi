@@ -16,6 +16,8 @@ avatar: https://raw.githubusercontent.com/kemtol/jasakonveksi/master/images/jasa
 # Flags below are optional
 #
 
+paginate: 2
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
