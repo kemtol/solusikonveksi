@@ -16,7 +16,7 @@ avatar: https://raw.githubusercontent.com/kemtol/jasakonveksi/master/images/jasa
 # Flags below are optional
 #
 
-paginate: 2
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 # Includes an icon in the footer for each username you enter
@@ -60,7 +60,7 @@ baseurl: "/solusikonveksi"
 permalink: /:title/
 
 # global excerpt
-excerpt_separator: <!--more-->
+excerpt_separator: <!--Baca Selengkapnya-->
 
 # front matter default for is post
 defaults:
