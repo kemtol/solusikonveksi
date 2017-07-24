@@ -108,9 +108,13 @@ Mudah!! Bapak/Ibu cukup mengikuti salah satu program kami dibawah ini 1 kali saj
 </tbody></table>
 </div>
 
-Tambahan Mengenai Jasa Jahit Konveksi Baju Anak
-Sebenarnya tidak ada perbedaan antara menjahit baju anak dan baju dewasa. Tingkat kesulitannya terkadang lebih sulit karena bidangnya terlalu kecil. Namun secara COGS akan lebih murah karena menggunakan bahan yang lebih sedikit. Sebagai gambaran jika atasan dewasa membutuhkan sekitar 1.5 yard untuk satu bajunya, maka baju anak bisa hemat seperempat atau setengahnya. Dari sisi harga jual hampir tidak ada perbedaan harga jual antara baju dewasa dan baju anak. Dengan COGS yang lebih sedikit tentu akan lebih menguntungkan. 
+## Tambahan Mengenai Jasa Jahit Konveksi Baju Anak
+Sebenarnya tidak ada perbedaan antara menjahit baju anak dan baju dewasa. Tingkat kesulitannya terkadang lebih sulit karena bidangnya terlalu kecil. Namun secara COGS akan lebih murah karena menggunakan bahan yang lebih sedikit. Sebagai gambaran jika atasan dewasa membutuhkan sekitar 1.5 yard untuk satu bajunya, maka baju anak bisa hemat seperempat atau setengahnya.
+
+Dari sisi harga jual hampir tidak ada perbedaan harga jual antara baju dewasa dan baju anak. Dengan COGS yang lebih sedikit tentu akan lebih menguntungkan. 
+
 Jika ditilik dari sisi repetisi order, maka baju anak kecil jauh lebih tinggi tingkat repetisinya karena baju anak kecil kerap berganti di masa pertumbuhan anak itu sendiri. Pertumbuhan paling cepat tentu dari umur 1 hingga 1 tahun. Dimana anak akan sangat sering mengganti pakaian di masa-masa tersebut. 
+
 Tentu dari penjabaran diatas bisnis online shop baju anak sangat menguntungkan, tinggal bagaimana anda menjualnya saja. Tertarik untuk menjual skala besar?
 
 <img src="https://4.bp.blogspot.com/-oOzRhIIbcSg/VzSP3uA_63I/AAAAAAAACEM/GxWGM-M3dkUXIrQSd2nVPMIl2dnnjym1QCLcB/s1600/rahasia-sukses-bisnis-konveksi.jpg" style="border: 4px solid rgb(221, 221, 221); max-width: 94%;">
