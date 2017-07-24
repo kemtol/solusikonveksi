@@ -242,6 +242,24 @@ img {
 	}
 }
 
+.col-70{
+	float:left;
+	width:70%;
+	
+	@include mobile{
+		width:100%;
+		float:none;
+	}
+}
+.col-30{
+	float:left;
+	width:30%;
+	
+	@include mobile{
+		width:100%;
+		float:none;
+	}
+}
 /*nav {
   margin: 0.75rem 0; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
