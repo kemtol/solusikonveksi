@@ -60,7 +60,7 @@ baseurl: "/solusikonveksi"
 permalink: /:title/
 
 # global excerpt
-excerpt_separator: <!--Baca Selengkapnya-->
+excerpt_separator: <!--more-->
 
 # front matter default for is post
 defaults:
