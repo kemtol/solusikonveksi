@@ -17,7 +17,6 @@ avatar: https://raw.githubusercontent.com/kemtol/jasakonveksi/master/images/jasa
 #
 
 paginate: 5
-paginate_path: "/blog/page:num/"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
