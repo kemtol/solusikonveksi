@@ -6,7 +6,7 @@ permalink: /2016/03/kursus-jahit-sablon-konveksi-jakarta-maret-2016.html
 
 <small>Adi Kepala Konveksi ibu dan bapak Yunan dari Malang</small>
 
-Terima kasih atas kepercayaannya mengikuti KURSUS KONVEKSI 3.0 dengan mengambil kelas training MANAJEMEN KONVEKSI MADE SIMPLE dan training CEPAT SUKSES ONLINE SHOP.
+Terima kasih atas kepercayaannya mengikuti **KURSUS KONVEKSI 3.0** dengan mengambil kelas training **MANAJEMEN KONVEKSI MADE SIMPLE** dan **training CEPAT SUKSES ONLINE SHOP**.
 
 Pak Yunan adalah pengusaha properti asal Malang, kesuksesan beliau tidak hanya di bisnis properti namun di bisnis peternakan sapi dan kayu. SANGAT MENGINSPIRASI!! Hebatnya beliau masih terus belajar, dan tidak malu untuk bertanya. Beliau dan istri ingin masuk ke dunia konveksi dan grosir online. Jadi ibu dan bapak harap waspada ya hehehe..
 
@@ -14,16 +14,16 @@ Dengan training 2 hari tersebut pak Yunan dan keluarga mendapatkan 1 buah websit
 
 Oke untuk menjawab rasa penasaran ibu-ibu dan bapak-bapak. Saya akan menjabarkan apa itu KURSUS KONVEKSI yang saya rancang.
 
-## Apa itu KURSUS KONVEKSI 3.0?
+**Apa itu KURSUS KONVEKSI 3.0?**
 Kursus ini tanpa basa basi berfokus langsung di bagaimana dunia konveksi modern bekerja. Dari bahan di pasar, masuk ke konveksi, lalu anda pasarkan melalui online.
 
-## Perbedaannya dimana?
+**Perbedaannya dimana?**
 Jika kursus yang lain anda mendapatkan sertifikat, pulang dari kursus ini anda mendapatkan website, koneksi bahkan calon client. Anda tinggal nyemplung saja plung!
 
-## Untuk siapa sajakah KURSUS KONVEKSI ini?
+**Untuk siapa sajakah KURSUS KONVEKSI ini?**
 Untuk anda yang ingin berbisnis konveksi, untuk anda yang ingin berbisnis online shop, untuk anda yang ingin usaha sablon, untuk anda yang ingin belajar berdagang di internet khususnya fashion, atau untuk anda yang sudah bosan kerja di kantor.
 
-## Ada berapa kelas?
+**Ada berapa kelas?**
 Setelah kami update dari pengalaman-pengalaman sebelumnya kami akhirnya dengan bismillah membuka kelas:
 - MANAJEMEN KONVEKSI MADE SIMPLE (Konveksi A-Z)
 - KELAS SABLON SUPER CEPAT BISA (Manual + DTG)
@@ -32,10 +32,10 @@ Setelah kami update dari pengalaman-pengalaman sebelumnya kami akhirnya dengan b
 Jika anda mengambil salah satu kelas diatas maka anda gratis mengambil
 - SUKSES ONLINE SHOP DAN DIGITAL MARKETING + GRATIS WEBSITE.
 
-## Apa aja fasilitasnya?
+**Apa aja fasilitasnya?**
 Makang siang, snack, jika diluar kota akan kami akomodir tempat hotel/penginapan sesuai budget (biaya diluar), ruang kelas yang nyaman, transport, dll
 
-## Berapa Biayanya?
+**Berapa Biayanya?**
 Semua pukul rata Rp 4.500.000,- / grup yang maksimal terdiri dari 4 orang.
 
 Mahal pak!
