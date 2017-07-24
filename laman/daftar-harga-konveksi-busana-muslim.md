@@ -4,9 +4,62 @@ title: Daftar Harga Konveksi Busana Muslim Wanita
 permalink: /p/daftar-harga-konveksi-busana-muslim.html
 is_post: true
 ---
-![Makloon jahit seragam depok]({{ site.baseurl }}/images/maklon-seragam-depok.jpg)
+![Daftar harga konveksi busana muslim](https://4.bp.blogspot.com/-DvZ3SFvtSOw/VLKjfL4B4LI/AAAAAAAABnY/ZBVEowrhh_8/s1600/daftar-harga-konveksi-busana-muslim.jpg)
 
 Kami menerima pembuatan busana muslim wanita, baik pengerjaan secara PAKET, makloon ataupun pengerjaan secara keseluruhan CMT Cut, Make, Trim. Harga update Juli 2016
+
+<div class="table-responsive">
+<table class="post-tab-1" id="lihatTable1">
+<thead>
+<tr>
+<th style="background: aliceblue;" width="40%"></th>
+<th width="30%">NON-MEMBER</th>
+<th width="30%">MEMBER</th>
+</tr>
+</thead>
+<tbody>
+<!--<tr>
+<td><strong>MIN QTY/MODEL</strong><br />
+<i class="c1">Tidak berlaku untuk jahit simple sekali seperti pashmina, square hijab, dll</i></td>
+<td class="nm">40 PCS</td>
+<td class="mm"><span class="stabilo">20 PCS</span> <i aria-hidden="true" class="fa fa-check" style="color: green;"></i></td>
+</tr>
+<tr>
+<td><strong>MIN MODEL/PRODUKSI</strong><br />
+<i class="c1">Tidak berlaku untuk jahit sekali seperti pashmina, square hijab, dll</i></td>
+<td class="nm">2 MODEL</td>
+<td class="mm">2 MODEL <i aria-hidden="true" class="fa fa-check" style="color: green;"></i></td>
+</tr>
+<tr>-->
+<tr><td style="background: lavenderblush;"><strong>TOTAL QTY/PRODUKSI</strong><br>
+<i class="c1">Dapat 2 model, per model bisa pilih mau variasi warna atau variasi size</i></td>
+<td class="nm" style="background: lavenderblush;">80 PCS</td>
+<td class="mm" style="background: lavenderblush;">40 PCS <i aria-hidden="true" class="fa fa-check" style="color: green;"></i></td>
+</tr>
+<tr>
+<td><strong>JAHIT SIMPLE</strong><br>
+<i class="c1">Dihitung berdasarkan rata rata harga pashmina, jilbab instan standar</i></td>
+<td class="nm">Rp 15.000/PCS</td>
+<td class="mm">Rp 10.000/PCS<br>
+<strong>(-30%)</strong></td>
+</tr>
+<tr>
+<td><strong>JAHIT MUDAH</strong><br>
+<i class="c1">Dihitung berdasarkan rata rata harga atasan</i></td>
+<td class="nm">Rp 35.000/PCS</td>
+<td class="mm">Rp 25.000/PCS<br>
+<strong>(-30%)</strong></td>
+</tr>
+<tr>
+<td><strong>JAHIT SEDANG/SET</strong><br>
+<i class="c1">Dihitung berdasarkan rata rata harga gamis</i></td>
+<td class="nm">Rp 50.000/PCS</td>
+<td class="mm">Rp 37.000/PCS<br>
+<strong>(-30%)</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## LALU BAGAIMANA CARA MENJADI MEMBER?
 Mudah!! Bapak/Ibu cukup mengikuti salah satu program kami dibawah ini 1 kali saja maka otomatis Bapak/Ibu akan menjadi member kami.
