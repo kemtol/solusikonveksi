@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Cara Memulai Bisnis Online Shop Yang Real dan Nyata! Bukan Janji Surga
 permalink: /2016/10/cara-memulai-bisnis-online-shop.html
 ---
