@@ -4,6 +4,7 @@ title: Tentang Bikin Sample Jahit Konveksi Busana Muslim, Wanita dan Pria
 permalink: /2014/10/tentang-bikin-sample-jahit-konveksi.html
 ---
 <img border="0" height="266" src="https://2.bp.blogspot.com/-itV9orDd5VA/VE-GNPnuGQI/AAAAAAAABkw/nF6dyOjvZMA/s1600/konveksi-menerima-sample-baju-wanita.jpg" width="400">
+
 <small>Tentang Sample Busana Wanita</small>
 
 Beberapa pertanyaan paling umum calon client atau konsumen sebuah konveksi diantaranya adalah.
