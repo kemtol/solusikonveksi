@@ -5,7 +5,7 @@ title: Bisnis PIN Konveksi Penipuan? Mending Bisnis Real Konveksi Bu..
 ---
 <img border="0" src="https://3.bp.blogspot.com/-H4ikMJgWEfk/V6Ad7WEhT4I/AAAAAAAACSw/5oWyEj27GlsC2S8cNqmYIvR7_vS49FT2ACLcB/s1600/penipuan-pin-konveksi.jpg" style="margin-left: auto; margin-right: auto; width: 95%;">
 
-<small>Maraknya bisnis penipuan PIN Konveksi/small>
+<small>Maraknya bisnis penipuan PIN Konveksi</small>
 
 Akhir akhir ini mulai marak orang berbisnis PIN Konveksi. Ya benar, bukan KONVEKSI tapi PIN KONVEKSI. Aneh sekali memang! Apakah begitu jahatnya para pengusaha sekarang atau memang orang Indonesia mudah terjebak dengan iming-iming untung besar. Sungguh tidak masuk di akal saya orang menjual daftar list konveksi yang sebenarnya bisa didapat hanya dengan sedikit usaha di internet. Apakah segitu susahnya mencari informasi no telp konveksi atau brand. Padahal dengan instagram saja kita bisa mendapatkan 10-20 no telp konveksi atau brand owner dalam 1 jamnya. 
 
