@@ -3,7 +3,7 @@ layout: post
 title: Pelatihan Bisnis Konveksi Online Bagi Pemula OLShop
 permalink: /2015/11/pelatihan-bisnis-konveksi-online-bagi.html
 ---
-<img border="0" height="239" src="https://4.bp.blogspot.com/-jtBbZ7DXppY/VlCiltuWn5I/AAAAAAAAByc/K_4IuNhnPRk/s320/images.jpg" width="95%">
+<img border="0" src="https://4.bp.blogspot.com/-jtBbZ7DXppY/VlCiltuWn5I/AAAAAAAAByc/K_4IuNhnPRk/s320/images.jpg" width="95%">
 
 <small>Pelatihan memulai bisnis online shop</small>
 
