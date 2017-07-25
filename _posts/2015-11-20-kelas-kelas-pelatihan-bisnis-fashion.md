@@ -5,7 +5,7 @@ permalink: /2015/11/kelas-kelas-pelatihan-bisnis-fashion.html
 ---
 <img border="0" src="https://2.bp.blogspot.com/-r99Sk7WOQOY/VlCknz0BB9I/AAAAAAAAByk/M-AxUyezUmE/s1600/Freelancer-event-720x480.jpg" style="width: 95%;">
 
-<small>Kelas pelatihan yang nyaman, dan private</small?
+<small>Kelas pelatihan yang nyaman, dan private</small>
 
 Seperti yang saya janjikan sebelumnya, berikut adalah kelas-kelas yang saya rancang untuk kebutuhan ibu-ibu yang ingin memulai usaha online di bidang fashion, khususnya busana muslim, ready to wear, fast fashion, dan casual.
 
