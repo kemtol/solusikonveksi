@@ -2,7 +2,7 @@
 title: Bikin Label Baju Tanpa Minimum Order, Dimana?
 layout: post
 permalink: /2017/01/bikin-label-baju-tanpa-minimum-order.html
---
+---
 Banyak yang bertanya
 
 *"Pak Kemal, sudah sama bikin label bajunya sekalian kan ya?"*
