@@ -69,7 +69,7 @@ Ibu-ibu yang sudah lelah bekerja dan ingin fokus untuk menjadi IRT sepenuhnya.
 Mereka yang sudah menjelang usia pensiun.
 Mereka yang ingin memulai bisnis konveksi tapi bingung mulai darimana.
 
-**Hubungi Kemal 083890722797 untuk info lebih lanjut **
+**Hubungi Kemal 083890722797 untuk info lebih lanjut**
 
 <a href="http://www.solusikonveksi.com/2016/03/kursus-jahit-sablon-konveksi-jakarta-maret-2016.html"><img src="https://4.bp.blogspot.com/-oOzRhIIbcSg/VzSP3uA_63I/AAAAAAAACEM/GxWGM-M3dkUXIrQSd2nVPMIl2dnnjym1QCLcB/s1600/rahasia-sukses-bisnis-konveksi.jpg" style="border: 4px solid rgb(221, 221, 221); max-width: 94%;"></a>
 
