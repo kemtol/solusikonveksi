@@ -8,6 +8,7 @@ Langsung saja, ketika ingin menjahit baju sebagai dagangan di instagram atau ol 
 ## Perhitungan Member Vs Non Member
 
 *Damage Cost (DC)* = Biaya total jendral.
+
 *COGS* = bahan + jasa. 
 
 ### Non Member
