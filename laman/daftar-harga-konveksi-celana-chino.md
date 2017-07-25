@@ -4,7 +4,7 @@ title: Daftar Harga Konveksi Celana Chino
 permalink: /p/daftar-harga-konveksi-celana-chino.html
 is_post: true
 ---
-<img border="0" height="281" src="http://2.bp.blogspot.com/-vdjbs5XF2fY/VLKh5K89zNI/AAAAAAAABnM/HUdS6oEfjMs/s1600/jasa-konveksi-celana-chino.jpg" width="400">
+<img border="0" src="http://2.bp.blogspot.com/-vdjbs5XF2fY/VLKh5K89zNI/AAAAAAAABnM/HUdS6oEfjMs/s1600/jasa-konveksi-celana-chino.jpg" width="95%">
 
 <small>Jasa Konveksi Celana Chino</small>
 
