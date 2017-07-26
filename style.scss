@@ -183,6 +183,21 @@ img {
 	clear:both;
 }
 
+#topNavbarMenu{
+	background:#29a47b;
+	ul.container{
+		list-style:none;
+		li{
+			float:left;
+			width:25%;
+			a{
+				display:block;
+				border-left:1px solid #33cc99;
+			}
+		}
+	}
+}
+
 .masthead {
   padding: 0.5rem 0;
   text-align:center;
