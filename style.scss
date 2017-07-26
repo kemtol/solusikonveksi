@@ -179,8 +179,10 @@ img {
 	}
 }
 
-#topHeader::after{
-	clear:both;
+#topHeader:after{
+	content: '';
+    display: block;
+    clear: both;
 }
 
 #topNavbarMenu{
@@ -206,7 +208,10 @@ img {
 		}
 	}
 	
-	ul.container::after{
+	ul.container:after{
+		content: '';
+	    display: block;
+    	clear: both;
 	}
 }
 
