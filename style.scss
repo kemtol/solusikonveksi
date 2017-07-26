@@ -151,7 +151,33 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+	margin-bottom: 50px;
+	background:#33cc99
+}
+
+#topHeader{
+	.logo{
+		display: inline-block;
+		color: #000;
+		font-weight: bolder;
+		border: 3px solid #000;
+		padding: 0.5rem 1rem;
+		letter-spacing: 2px;
+		background: #fff;
+		margin-left: 0.75rem;
+		margin-top: 0.5rem;
+		margin-bottom: 0.5rem;
+	}
+	.th2{
+		display: block;
+		float: right;
+		text-align: right;
+		padding: 1rem 0.75rem;
+	}
+}
+
+#topHeader::after{
+	clear:both;
 }
 
 .masthead {
