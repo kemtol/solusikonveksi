@@ -150,9 +150,9 @@ img {
 // .masthead
 //
 
-.wrapper-masthead{
-	background:#33cc99
-}
+.wrapper-masthead{background:#33cc99}
+
+.wrapper-masthead:last-child{background:#5cd6ad}
 
 #topHeader{
 	.logo{
@@ -269,46 +269,6 @@ img {
 		}
 	}
 }
-/*.site-avatar {
-	width: 100%;
-	height: 200px;
-	margin-right: 15px;
-	overflow: hidden;
-	    display: block;
-	position: relative;
-	border-radius: 5px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-  span.back-to-home{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	font-weight: bold;
-	color: #fff;
-	z-index: 1;
-	letter-spacing: 5px;
-	display: inline-block;
-	border: 3px solid;
-	padding: 1rem;
-	background: black;
-	  
-	  span{
-		  letter-spacing: initial;font-weight: 300;font-family: initial;font-style: italic;
-	  }
-	}
-  img {
-	width:100%;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-  }
-}*/
 
 .site-info {
 
