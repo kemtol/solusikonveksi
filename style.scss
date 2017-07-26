@@ -187,14 +187,26 @@ img {
 	background:#29a47b;
 	ul.container{
 		list-style:none;
+		background:#29a47b;
 		li{
 			float:left;
 			width:25%;
 			a{
 				display:block;
 				border-left:1px solid #33cc99;
+				text-align:center;
+				color:#fff;
+			}
+			a:hover{
+				background:#1f7b5c;
 			}
 		}
+		li:last-child a{
+			border-right:1px solid #33cc99;
+		}
+	}
+	
+	ul.container::after{
 	}
 }
 
