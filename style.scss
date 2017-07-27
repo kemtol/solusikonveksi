@@ -176,11 +176,11 @@ img {
     		font-family: georgia;
     		font-style: italic;
 		font-size:1rem;
-		@include mobile{
+		@include mobile {
 			display:none;
 		}
 	}
-	@include mobile{
+	@include mobile {
 		text-align:center;
 	}
 }
@@ -225,7 +225,7 @@ img {
     	clear: both;
 	}
 	
-	@include mobile{
+	@include mobile {
 		display:none;
 	}
 }
@@ -247,11 +247,11 @@ img {
 		.b1{
 			float:left;
 			img{
-				@include mobile{
+				@include mobile {
 					max-width:80%;
 				}
 			}
-			@include mobile{
+			@include mobile {
 				float:none;
 				width:100%;
 				text-align:center;
@@ -263,7 +263,7 @@ img {
 				font-size: 2.25rem;
 				font-weight: 700;
 				color:#fff;
-				@include mobile{
+				@include mobile {
 					font-size:1.5rem;
 				}
 			}
@@ -271,7 +271,7 @@ img {
 				font-weight: 900;
 				font-size: 3.5rem;
 				color:#fff;
-				@include mobile{
+				@include mobile {
 					font-size:2.25rem;
 				}
 			}
@@ -294,19 +294,19 @@ img {
 				border-bottom: 5px solid #444;
 				font-size:0.9rem;
 				
-				@include mobile{
+				@include mobile {
 					width:75%;
 				}
 			}
 			.btnb.q1{
 				background: #0099ff;
 			}
-			@include mobile{
+			@include mobile {
 				padding-top: 1rem;
     			text-align: center;
 			}
 		}
-		@include mobile{
+		@include mobile {
 			min-width:initial;
 			
 		}
@@ -352,7 +352,7 @@ img {
 
 .col-70, .col-30{
 	padding:0 0.75rem;
-	@include mobile{
+	@include mobile {
 		padding:none;
 	}
 }
@@ -361,7 +361,7 @@ img {
 	float:left;
 	width:70%;
 	
-	@include mobile{
+	@include mobile {
 		width:100%;
 		float:none;
 	}
@@ -370,7 +370,7 @@ img {
 	float:left;
 	width:30%;
 	
-	@include mobile{
+	@include mobile {
 		width:100%;
 		float:none;
 	}
@@ -460,7 +460,7 @@ img {
 	padding:0.75rem;
 	margin-bottom:1rem
 	
-	@include mobile{
+	@include mobile {
 		border:none;
 		border-bottom: 1px solid $lightGray;
 		padding:0.75rem 0;
