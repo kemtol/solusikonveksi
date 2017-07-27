@@ -222,14 +222,6 @@ img {
 		}
 	}
 	
-	[type="checkbox"]:checked ~ ul {
-		@include mobile{
-			display: block;
-			right: 20px;
-			left: 20px;
-		}
-	}
-	
 	ul.container{
 		list-style:none;
 		background:#29a47b;
@@ -270,8 +262,16 @@ img {
 	
 	ul.container:after{
 		content: '';
-	    display: block;
+		display: block;
     	clear: both;
+	}
+	
+	[type="checkbox"]:checked ~ ul {
+		@include mobile{
+			display: block;
+			right: 20px;
+			left: 20px;
+		}
 	}
 	
 	@include mobile {
