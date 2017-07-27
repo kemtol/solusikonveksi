@@ -173,9 +173,15 @@ img {
 		text-align: right;
 		padding: 1rem 0.75rem;
 		color: #fff;
-    	font-family: georgia;
-    	font-style: italic;
+    		font-family: georgia;
+    		font-style: italic;
 		font-size:1rem;
+		@include mobile{
+			display:none;
+		}
+	}
+	@include mobile{
+		text-align:center;
 	}
 }
 
@@ -218,6 +224,10 @@ img {
 	    display: block;
     	clear: both;
 	}
+	
+	@include mobile{
+		display:none;
+	}
 }
 
 .masthead {
@@ -236,26 +246,36 @@ img {
 	    margin: auto;
 		.b1{
 			float:left;
+			@include mobile{
+				float:none;
+				width:100%;
+			}
 		}
 		.b2{
-		    padding-top: 75px;
+			padding-top: 75px;
 			.spanh4{
-			    font-size: 2.25rem;
-    			font-weight: 700;
+				font-size: 2.25rem;
+				font-weight: 700;
 				color:#fff;
+				@include mobile{
+					font-size:1.5rem;
+				}
 			}
 			.spanh3{
-			    font-weight: 900;
-    			font-size: 3.5rem;
+				font-weight: 900;
+				font-size: 3.5rem;
 				color:#fff;
+				@include mobile{
+					font-size:2.25rem;
+				}
 			}
 			p{
 				font-size: 21px;
-    			margin-bottom: 50px;
+			margin-bottom: 50px;
 				color:#fff;
 			}
 			.btnb{
-			    display: inline-block;
+				display: inline-block;
 				background: #ec00e4;
 				color: #fff;
 				padding: 20px 40px;
@@ -271,6 +291,14 @@ img {
 			.btnb.q1{
 				background: #0099ff;
 			}
+			@include mobile{
+				padding-top: 1rem;
+    			text-align: center;
+			}
+		}
+		@include mobile{
+			min-width:initial;
+			
 		}
 	}
 }
