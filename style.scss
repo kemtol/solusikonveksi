@@ -201,33 +201,30 @@ img {
 	label{
 		@include mobile {
 			display: block;
-			background: #222;
+			background: transparent;
 			width: 40px;
 			height: 40px;
 			cursor: pointer;
-			position: absolute;
-			right: 20px;
-			top: 0px;
+			position: relative;
+			padding: 6px;
 		}	
 	}
 	
 	label:after{
 		@include mobile{
-			content:'';
+			content: '';
 			display: block;
 			width: 30px;
 			height: 5px;
-			background: #777;
-			margin: 7px 5px;
-			box-shadow: 0px 10px 0px #777, 0px 20px 0px #777
+			background: #fff;
+			margin: 0;
+			box-shadow: 0px 10px 0px #fff, 0px 20px 0px #fff;
 		}
 	}
 	
 	[type="checkbox"]:checked ~ ul {
 		@include mobile{
 			display: block;
-			z-index: 9999;
-			position: absolute;
 			right: 20px;
 			left: 20px;
 		}
