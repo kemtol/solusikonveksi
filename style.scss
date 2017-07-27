@@ -198,6 +198,14 @@ img {
 	  display: none;
 	}
 	
+	[type="checkbox"]{
+		@include mobile {
+			display:block;
+			z-index:99;
+			opacity:0;
+		}
+	}
+	
 	label{
 		@include mobile {
 			display: block;
@@ -207,6 +215,7 @@ img {
 			cursor: pointer;
 			position: relative;
 			padding: 6px;
+			z-index:98;
 		}	
 	}
 	
