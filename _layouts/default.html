@@ -21,14 +21,15 @@
         </div>
       </div>
 
-      <div id="topNavbarMenu">
+      <nav id="topNavbarMenu">
+          <input type="checkbox" id="navmob" /><label for="nav"></label>
           <ul class="container">
               <li><a href="http://solusikonveksi.com/p/daftar-harga-konveksi-busana-muslim.html">Konveksi Busana Muslim Wanita</a></li>
               <li><a href="http://solusikonveksi.com/p/daftar-harga.html">Konveksi Busana Wanita</a></li>
               <li><a href="http://www.solusikonveksi.com/p/daftar-harga-konveksi-baju-anak.html">Konveksi Baju Anak</a></li>
               <li><a href="http://solusikonveksi.com/p/daftar-harga-konveksi-kemeja-pria.html">Konveksi Busana Pria</a></li>
           </ul>
-      </div>
+      </nav>
     </div>
     
     <div id="landing-page" class="wrapper-masthead">
@@ -47,35 +48,19 @@
         </div>
     </div>
     
-    <div class="wrapper-masthead">
+    <div class="wrapper-masthead" style="background:#5cd6ad">
       <div class="container">
         <header class="masthead clearfix">
-          <!--<a href="{{ site.baseurl }}/" class="site-avatar">
-            <span class="back-to-home">
-              SOLUSIKONVEKSI.COM<br/>
-              <span>Jakarta, Depok &amp; Bandung</span>
-            </span>
-            <img alt="konveksi makloon jahit jakarta dan depok" src="{{ site.avatar }}" />
-          </a>-->
-
           {% if page.is_post != true %}
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">
               {{ site.description }}
               <br />
-              <span class="no-hp">WA 0838-9072-2797</span>
+              <a class="btn" href="https://api.whatsapp.com/send?phone=6283890722797&amp;text=Halo%20mau%20info%20donk" role="button" style="background:#00DF38"><img src="./Konveksi Pakaian Wanita Murah dan Grosir Pakaian Muslim Wanita_files/fa-whatsapp_24_0_ffffff_none.png"> 0838-9072-2797</a>
             </p>
           </div>
           {% endif %}
-
-          <!--<nav>
-            <a href="{{ site.baseurl }}/">HOME</a>
-            <a href="{{ site.baseurl }}/daftar-harga-konveksi-kaos.html">KAOS</a>
-            <a href="{{ site.baseurl }}/daftar-harga-konveksi-seragam.html">SERAGAM</a>
-            <a href="{{ site.baseurl }}/daftar-harga-jahit-celana.html">CELANA</a>           
-          </nav>-->
-          
           <ul id="menutop">
             <li><a href="{{ site.baseurl }}/p/daftar-harga-konveksi-busana-muslim.html"><img src="https://1.bp.blogspot.com/-zrDojjHedh8/WD5k12vZ0ZI/AAAAAAAACn8/ldfwH3FURm8m0lZ47v8gmFjdtVNp9OGeQCLcB/s1600/jasa-konveksi-baju-muslim-depok.jpg" /></a>BAJU MUSLIM</li>
             <li><a href="{{ site.baseurl }}/p/daftar-harga.html"><img src="https://1.bp.blogspot.com/-t3CX3Cy9XaE/WD6IKrJyLeI/AAAAAAAACoQ/I92mjYW4yhcM8SW3OqDgY2uRn5Tx1ZjBwCLcB/s1600/konveksi-baju-cewek-casual-jaksel.jpg" /></a>WANITA CASUAL</li>
