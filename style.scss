@@ -218,6 +218,19 @@ img {
 #topNavbarMenu{
 	background:#29a47b;
 	
+	span{
+		display:none;
+		@include mobile {
+			font-size: 1rem;
+			font-family: georgia;
+			color: #fff;
+			font-style: italic;
+			text-align: center;
+			display: block;
+			padding: 0.75rem 0;
+		}
+	}
+	
 	[type="checkbox"], label {
 	  display: none;
 	}
@@ -230,6 +243,8 @@ img {
 		    position: absolute;
 		    width: 35px;
 		    height: 35px;
+			top:0.75rem;
+			left:0;			
 		}
 	}
 	
@@ -240,7 +255,9 @@ img {
 			width: 40px;
 			height: 40px;
 			cursor: pointer;
-			position: relative;
+			position: absolute;
+			top:0.75rem;
+			left:0;
 			padding: 6px;
 			z-index:98;
 		}	
