@@ -19,8 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	font: 18px/1.4 $helvetica;
+	color: $darkGray;
 }
 
 .container {
@@ -246,9 +246,15 @@ img {
 	    margin: auto;
 		.b1{
 			float:left;
+			img{
+				@include mobile{
+					max-width:80%;
+				}
+			}
 			@include mobile{
 				float:none;
 				width:100%;
+				text-align:center;
 			}
 		}
 		.b2{
@@ -271,7 +277,7 @@ img {
 			}
 			p{
 				font-size: 21px;
-			margin-bottom: 50px;
+				margin-bottom: 50px;
 				color:#fff;
 			}
 			.btnb{
@@ -287,6 +293,10 @@ img {
 				font-weight: bold;
 				border-bottom: 5px solid #444;
 				font-size:0.9rem;
+				
+				@include mobile{
+					width:75%;
+				}
 			}
 			.btnb.q1{
 				background: #0099ff;
@@ -439,12 +449,22 @@ img {
 // .main
 //
 
+#main{
+	margin-top:1rem;
+}
+
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  	padding-bottom: 2em;
+	border-bottom: 1px solid $lightGray;
 	border:1px solid #ccc;
 	padding:0.75rem;
 	margin-bottom:1rem
+	
+	@include mobile{
+		border:none;
+		border-bottom: 1px solid $lightGray;
+		padding:0.75rem 0;
+	}
 }
 
 .post {
