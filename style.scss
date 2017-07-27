@@ -142,6 +142,29 @@ img {
     clear: both;
 }
 
+.btn{
+    background: #00DF38;
+    display: inline-block;
+    margin-bottom: 0;
+    border: 0;
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    padding: 20px 32px;
+    font-size: 24px;
+    line-height: 1.33;
+    color: #fff!important;
+    display: flex;
+    max-width: 300px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -286,7 +309,7 @@ img {
 			right: 20px;
 			left: 20px;
 			border-top:1px solid #33cc99;
-			padding:0;
+			padding:0 0 1rem 0;
 		}
 	}
 	
@@ -328,6 +351,7 @@ img {
 				font-size: 2.25rem;
 				font-weight: 700;
 				color:#fff;
+				display:block;
 				@include mobile {
 					font-size:1.5rem;
 				}
@@ -336,6 +360,7 @@ img {
 				font-weight: 900;
 				font-size: 3.5rem;
 				color:#fff;
+				display:block;
 				@include mobile {
 					font-size:2.25rem;
 				}
