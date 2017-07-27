@@ -251,6 +251,7 @@ img {
 				padding:0.75rem 0;
 				
 				@include mobile {
+					border-left:0;
 					border-bottom:1px solid #33cc99;
 				}
 			}
@@ -285,6 +286,7 @@ img {
 			right: 20px;
 			left: 20px;
 			border-top:1px solid #33cc99;
+			padding:0;
 		}
 	}
 	
