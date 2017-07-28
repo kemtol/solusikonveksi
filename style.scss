@@ -185,6 +185,7 @@ img {
 .wrapper-masthead:last-child{background:#5cd6ad}
 
 #topHeader{
+	padding:0.5rem 0;
 	.logo{
 		display: inline-block;
 		color: #000;
@@ -223,7 +224,6 @@ img {
 
 #topNavbarMenu{
 	background:#29a47b;
-	padding:0.5rem 0;
 	
 	span{
 		display:none;
