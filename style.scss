@@ -608,6 +608,13 @@ img {
 	p{
 		text-indent:2.5rem;
 		
+		small{
+			font-size: 0.75rem;
+			position: relative;
+			top: -15px;
+			left: -2.5rem;
+		}
+		
 		img{
 			position:relative;
 			left:-2.5rem;
