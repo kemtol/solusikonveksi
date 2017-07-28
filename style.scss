@@ -223,6 +223,7 @@ img {
 
 #topNavbarMenu{
 	background:#29a47b;
+	padding:0.5rem 0;
 	
 	span{
 		display:none;
@@ -249,7 +250,7 @@ img {
 		    position: absolute;
 		    width: 35px;
 		    height: 35px;
-			top:0.75rem;
+			top:1.25rem;
 			left:0;			
 		}
 	}
@@ -262,7 +263,7 @@ img {
 			height: 40px;
 			cursor: pointer;
 			position: absolute;
-			top:0.75rem;
+			top:1.25rem;
 			left:0;
 			padding: 6px;
 			z-index:98;
