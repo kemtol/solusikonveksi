@@ -8,7 +8,7 @@ permalink: /2016/12/tips-memulai-bisnis-konveksi-dan-modalnya.html
 <small>Bapak Ilham Trainer Kami Training BARU MULAI USAHA Sept 2016</small>
 
 Banyak yang bertanya kenapa harus ada sistem membership di konveksi? Begini, saya harus meluruskan dulu bahwa kami selaku pelaku usaha juga membutuhkan yang namanya keuntungan, apa Ibu dan Bapak setuju? Sebagai gambaran begini jika saja ibu dan bapak membutuhkan konveksi untuk memproduksi baju yang nantinya akan dijual lagi, berarti ibu dan bapak adalah pengharap keuntungan. Nah begitu juga kami, kami melakukan ini semua untuk mengharapkan keuntungan dengan pertumbuhan yang stabil agar dapat mendaya gunakan lebih banyak pekerja maka lebih banyak pulalah kita mendapat pahala membantu sesama.
-
+<!--more-->
 Namun sayang mendapatkan untung dalam berdagang itu tidaklah semulus paha syahrini. Ada carut marut dan kanan kirinya, dan hal ini harus disadari oleh semua pelaku usaha. Apa saja ketidakcocokan sehingga harus ada sistem membership 
 
 ## #1 Semua Pelanggan Ingin Menjahit Sesedikit Mungkin Dengan Harga Semurah Mungkin
