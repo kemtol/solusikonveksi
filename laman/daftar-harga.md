@@ -102,7 +102,7 @@ Mudah!! Bapak/Ibu cukup mengikuti salah satu program kami dibawah ini 1 kali saj
 <td colspan="3" class="nm">
 
 <div style="background: #fef5c4; margin-bottom: 1em; padding: 1em; text-align: center;">
-<span style="font-size: 11px;display: inline-block;">KLIK UNTUK DETAIL PAKET GOLD</span>
+<span style="font-size: 11px;display: inline-block;display:none">KLIK UNTUK DETAIL PAKET GOLD</span>
 <a href="" class="btn-tog" style=" display: inline-block; "><img border="0" src="https://2.bp.blogspot.com/-flmTl-52ioQ/V3J7xefkpWI/AAAAAAAACOs/kbBBj4W_IRsYcb2o6zvqDT6KcDTPsJRmACLcB/s1600/GoldPackage.png" style="background: none; border: none;"></a><div class="sho-hi hide">
 <img src="https://2.bp.blogspot.com/-hLpZ_C4WFbg/V4zPDyRvUPI/AAAAAAAACRo/Muz1uoECK-sgpKDZ2cUf7CRcRZr8Z2Q1wCLcB/s1600/paket-busana-muslim.png" style="background: transparent; border: none; max-width: 90%; padding: 0px;">
 <br>
