@@ -646,16 +646,23 @@ img {
 
 .table-responsive{
 	table{
+		border: 1px solid #ddd;
 		width:calc(100% + 5rem);
 		position:relative;
 		left:-5rem;
 		tr{
+			th{
+				font-weight: bold;
+    				font-size: 0.9rem;
+			}
 			th,td{
 				padding:0.75rem;
 				text-align:center;
+				border-bottom: 1px solid #eee;
 			}
 			th:first-child, td:first-child{
-				border-right:1px solid #ccc
+				border-right:1px solid #ccc;
+				background:aliceblue;
 			}
 		}
 	}
