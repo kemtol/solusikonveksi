@@ -17,7 +17,7 @@ atau
 "Pak bisa ngerjain baju koko tidak?" 
 
 Nah salah kaprah disini adalah baju muslim yang kami terima makloon kan hanya terbatas pada baju muslim wanita saja, atau jasa maklon jahit pashmina saja, atau hanya konveksi baju muslim wanita saja titik. Ini tidak tepat karena pada awalnya konveksi ini berdiri pun kami spesialis di konveksi apparel baju pria. Jadi tentu bisa potong, jahit dan trimming untuk baju koko.
-
+<!--more-->
 ## Maklon Jahit Baju Koko
 Jahit baju koko sebenarnya susah-susah gampang, tapi kalau ditanya lebih susah mana? Saya akan menjawab lebih susah gamis atau baju muslim wanita. Pertama karena baju koko itu modelnya gitu-gitu aja, kerah, lengan, kancing dari dulu ya seperti itu. Namun yang membuat sulit adalah detilnya. Kadang baju koko agar terkesan mahal itu ditambahkan detail berupa bordiran. Itu yang bikin sulit karena proses bordir sendiri adalah proses terpisah. Dan proses bordir tersebut dilakukan oleh pihak ke-3 atau jasa khusus bordir komputer. Dengan kata lain anda akan bertaruh dengan jumlah minimum produksinya. Ya betul, harus jumlah banyak. 
 
