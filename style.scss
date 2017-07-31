@@ -651,8 +651,11 @@ img {
 		left:-5rem;
 		tr{
 			th,td{
-				padding:0.5rem;
+				padding:0.75rem;
 				text-align:center;
+			}
+			th:first-child, td:first-child{
+				border-right:1px solid #ccc
 			}
 		}
 	}
