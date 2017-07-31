@@ -644,6 +644,20 @@ img {
 	}
 }
 
+.table-responsive{
+	table{
+		width:calc(100% + 5rem);
+		position:relative;
+		left:-5rem;
+		tr{
+			th,td{
+				padding:0.5rem;
+				text-align:center;
+			}
+		}
+	}
+}
+
 .page{
   .comments {
 	margin-top: 2.5rem;
