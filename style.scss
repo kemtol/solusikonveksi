@@ -672,6 +672,13 @@ img {
 				background:aliceblue;
 			}
 		}
+		@include mobile {
+			width:200%;
+			left:0;
+		}
+	}
+	@include mobile {
+		overflow-x:auto;
 	}
 }
 
