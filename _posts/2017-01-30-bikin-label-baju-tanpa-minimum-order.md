@@ -25,7 +25,7 @@ Woven label sendiri adalah jenis label yang proses pembuatannya dengan cara di T
 Gambar diatas sebagai contoh terlihat sekali tenun-tenunan benang yang akhirnya membentuk huruf.
 
 **Kelebihan woven label** ini adalah terkesan mahal, konsisten dan yang paling penting adalah tahan lama. Berbeda dengan label pita sablon yang seiring berjalannya waktu akan pudar karena menggunakan tinta printing, woven label ini dapat bertahan bertahun-tahun.
-
+<!--more-->
 Woven label ini memiliki berbagai macam bahan dasar, yang paling sering digunakan adalah
 - Woven Label Satin
 - dan Woven Label Damask.
