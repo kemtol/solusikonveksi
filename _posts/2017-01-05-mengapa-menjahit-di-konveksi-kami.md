@@ -4,7 +4,7 @@ title: Mengapa Menjahit Di Konveksi Kami Secara Member Lebih Murah?
 permalink: /2017/01/mengapa-menjahit-di-konveksi-kami.html
 ---
 Langsung saja, ketika ingin menjahit baju sebagai dagangan di instagram atau ol shop anda, sudah pasti anda akan mencari harga produksi paling murah dan min qty yang paling sedikit. Atas dasar hal itu maka kami akan simulasikan perhitungannya
-
+<!--more-->
 ## Perhitungan Member Vs Non Member
 
 *Damage Cost (DC)* = Biaya total jendral.
