@@ -494,7 +494,7 @@ img {
 	}
 }
 
-.col-70, .col-30{
+.col-70, .col-30, col-33{
 	padding:0 0.75rem;
 	@include mobile {
 		padding:none;
@@ -513,6 +513,16 @@ img {
 .col-30{
 	float:left;
 	width:30%;
+	
+	@include mobile {
+		width:100%;
+		float:none;
+	}
+}
+
+.col-33{
+	float:left;
+	width:33.3%;
 	
 	@include mobile {
 		width:100%;
