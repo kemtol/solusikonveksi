@@ -179,11 +179,12 @@ img {
 .menu-hor{
 	margin:0;
 	padding:0;
-}
-.menu-hor:after{
-	content: '';
-    display: block;
-    clear: both;
+	list-style:none;
+	li{
+		letter-spacing:1px;
+		font-weight:bold;
+		color:#fff;
+	}
 }
 
 /*********************/
