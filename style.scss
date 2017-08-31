@@ -470,14 +470,23 @@ img {
 					padding:1rem;
 					.a1{
 						background:#18815e;
+						text-align:center;
+						padding:1rem;
+						color:#fff;
 					}
 					.a2{
 						background:#249670;
+						text-align:center;
+						padding:1rem;
+						coor:#fff;
 					}
 					ul.a3{
+						margin:0;
+						padding:0;
+						list-style:none;
 						li{
-							display:block;
-							background:#eee;
+						display:block;
+						background:#eee;
 						border-bottom:1px solid #ccc;
 						border-left:1px solid #ccc;
 						border-right:1px solid #ccc;
