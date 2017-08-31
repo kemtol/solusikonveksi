@@ -353,7 +353,13 @@ img {
 .masthead {
   padding: 2rem 0;
   text-align:center;
-
+	
+	.site-info{
+		padding: 1.5rem 6rem;
+    border: 2px solid #fff;
+    box-shadow: 5px 5px #fff;
+	}
+	
   @include mobile {
     text-align: center;
   }
@@ -553,14 +559,15 @@ img {
 	display:inline-block;
 	li{
 		float:left;
-		width:125px;
+		width:175px;
 		text-align:center;
 		margin:5px 10px;
 		font-size:0.9rem;
 		font-weight:bold;
+		color:#fff;
 		a{
 			display:block;
-			height:125px;
+			height:175px;
 			border-radius:50%;
 			overflow:hidden;
 			box-sizing:border-box;
@@ -571,7 +578,7 @@ img {
 			}
 		}
 		a:hover{
-			border:4px solid red;
+			border:4px solid yellow;
 		}
 	}
 }
