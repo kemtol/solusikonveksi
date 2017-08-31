@@ -176,6 +176,16 @@ img {
     justify-content: center;
 }
 
+.menu-hor{
+	margin:0;
+	padding:0;
+}
+.menu-hor:after{
+	content: '';
+    display: block;
+    clear: both;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
