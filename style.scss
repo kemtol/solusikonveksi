@@ -456,6 +456,39 @@ img {
 	}
 }
 
+#landing-page-2{
+	background:#75e1bd;
+	table{
+		width:100%;
+		@include mobile{
+			width:300%;
+		}
+		tr{
+			td{
+				width:33.3%
+				.perks{
+					padding:1rem;
+					.a1{
+						background:#18815e;
+					}
+					.a2{
+						background:#249670;
+					}
+					ul.a3{
+						li{
+							display:block;
+							background:#eee;
+						border-bottom:1px solid #ccc;
+						border-left:1px solid #ccc;
+						border-right:1px solid #ccc;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
 .site-info {
 
   @include mobile {
