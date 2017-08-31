@@ -3,7 +3,9 @@ title: Price List Harga Konveksi Busana Wanita
 permalink: /p/daftar-harga.html
 is_post: true
 ---
-<img border="0" src="https://4.bp.blogspot.com/-0r2CPj98AhY/VycfAqXxqeI/AAAAAAAACC4/_0wOgYOROpgDzV5TNReq2X_B1ViCl0pDgCLcB/s1600/konveksi-zara-hm-topshop-jakarta.jpg" style="margin-left: auto; margin-right: auto; width: 90%;">
+
+<img border="0" src="https://4.bp.blogspot.com/-0r2CPj98AhY/VycfAqXxqeI/AAAAAAAACC4/_0wOgYOROpgDzV5TNReq2X_B1ViCl0pDgCLcB/s1600/konveksi-zara-hm-topshop-jakarta.jpg" style="margin-left: auto; margin-right: auto; width: 90%;" />
+
 <small>Menerima Pembuatan Busana Casual Seperti Zara, H&M dll</small>
 
 Kami menerima pembuatan busana wanita, baik pengerjaan secara makloon ataupun pengerjaan secara CMT Cut, Make, Trim atau Potong, Jahit Finishing. Harga update May 2016
