@@ -351,7 +351,7 @@ img {
 }
 
 .masthead {
-  padding: 0.5rem 0;
+  padding: 2rem 0;
   text-align:center;
 
   @include mobile {
@@ -444,13 +444,14 @@ img {
 }
 
 .site-name {
-  margin: 0.5rem 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: bold;
-  font-size: 28px;
-  letter-spacing: 1px;
+	margin: 0.5rem 0;
+	color: $darkGray;
+	cursor: pointer;
+	font-family: $helveticaNeue;
+	font-weight: bold;
+	font-size: 2rem;
+	letter-spacing: 1px;
+	margin-bottom:1.5rem
 }
 
 .site-description {
