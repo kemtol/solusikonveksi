@@ -483,7 +483,6 @@ img {
 							font-size: 6em;
 							display: block;
 							font-family: georgia;
-							te: 11rem;
 							line-height: 4rem;
 							height: 7rem;
 							vertical-align: top;
@@ -494,11 +493,13 @@ img {
 						padding:0;
 						list-style:none;
 						li{
-						display:block;
-						background:#eee;
-						border-bottom:1px solid #ccc;
-						border-left:1px solid #ccc;
-						border-right:1px solid #ccc;
+							display: block;
+							background: #fff;
+							border-bottom: 2px solid #75e1bd;
+							border-left: 1px solid #75e1bd;
+							border-right: 1px solid #75e1bd;
+							padding: 0.5rem 1rem;
+							font-style:italic
 						}
 					}
 				}
