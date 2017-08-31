@@ -53,7 +53,11 @@
     
     <div class="wrapper-masthead" style="background:#5cd6ad">
       <div class="container">
-        <header class="masthead clearfix">
+        {% if page.is_post == true %}
+        <header class="masthead clearfix" style="padding:2rem 0">
+        {% else %}
+        <header class="masthead clearfix">  
+        {% endif %}
           {% if page.is_post != true %}
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/" style="color:#fff">{{ site.name }}</a></h1>
@@ -70,14 +74,14 @@
             <li><a href="{{ site.baseurl }}/p/daftar-harga-konveksi-kemeja-pria.html"><img src="https://1.bp.blogspot.com/-SXNB8ZDFLOI/WD6IvLu4haI/AAAAAAAACoY/u5fTyG0eI70mqmmx6nm0sX6woP2K4ZbbQCLcB/s1600/konveksi-baju-pria.jpg" /></a>BUSANA PRIA</li>
           </ul>
           {% endif %}
-          <ul class="menu-hor">
+          <ul class="menu-hor clearfix">
             <li class="col-33"><a href="http://kainkenari.blogspot.com"><img src="{{ site.baseurl }}/images/belanja-kain-online.jpg" /></a></li>
             <li class="col-33"><a href="{{ site.baseurl }}/2017/01/bikin-label-baju-tanpa-minimum-order.html"><img src="{{ site.baseurl }}/images/buat-label-baju-hangtag.jpg" /></a></li>
             <li class="col-33"><a href="{{ site.baseurl }}/2016/03/kursus-jahit-sablon-konveksi-jakarta-maret-2016.html"><img src="{{ site.baseurl }}/images/belajar-bisnis-busana-muslim.jpg" /></a></li>
           </ul>
           {% if page.is_post == true %}
             <br />
-            <a class="btn" href="https://api.whatsapp.com/send?phone=6283890722797&amp;text=Halo%20mau%20info%20donk" role="button" style="background:#00DF38"><img src="{{ site.baseurl }}/images/fa-whatsapp_24_0_ffffff_none.png" style="margin-right:1rem"> 0838-9072-2797</a>
+            <a class="btn" href="https://api.whatsapp.com/send?phone=6283890722797&amp;text=Halo%20mau%20info%20donk" role="button" style="margin-top:0;background:#00DF38"><img src="{{ site.baseurl }}/images/fa-whatsapp_24_0_ffffff_none.png" style="margin-right:1rem"> 0838-9072-2797</a>
           {% endif %}
           </header>
       </div>
