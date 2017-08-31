@@ -3,11 +3,7 @@ title: Daftar Harga Konveksi Baju Anak Jakarta Selatan
 permalink: /p/daftar-harga-konveksi-baju-anak.html
 is_post: true
 ---
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><img border="0" src="https://2.bp.blogspot.com/-Hg7TtFxdF2Q/WFobzo4xXjI/AAAAAAAAC0A/W1GS_OsXQwc_Qnq5TdUoUuEAIiygIwe9ACLcB/s1600/konveksi-baju-anak-jakarta-selatan.jpg" width="95%"></td></tr>
-<tr><td class="tr-caption" style="text-align: center;"><br>
-Menerima jahit baju anak untuk dijual lagi&nbsp;</td></tr>
-</tbody></table>
+<img border="0" src="https://2.bp.blogspot.com/-Hg7TtFxdF2Q/WFobzo4xXjI/AAAAAAAAC0A/W1GS_OsXQwc_Qnq5TdUoUuEAIiygIwe9ACLcB/s1600/konveksi-baju-anak-jakarta-selatan.jpg" width="95%">
 
 <small>Menerima jahit baju anak untuk dijual lagi </small>
 
