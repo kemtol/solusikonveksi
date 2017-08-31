@@ -577,8 +577,9 @@ img {
 	width:33.3%;
 	
 	@include mobile {
-		width:100%;
-		float:none;
+		width:33.3%;
+		float:left;
+		padding:1px;
 	}
 }
 
