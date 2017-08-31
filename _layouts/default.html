@@ -79,6 +79,20 @@
       </div>
     </div>
 
+    {% if page.is_post != true %}
+    <div id="landing-page-2" class="wrapper-masthead">
+        <div class="a1 container">
+          <table>
+            <tr>
+              <td>1</td>
+              <td>2</td>
+              <td>3</td>
+            </tr>
+          </table>
+        </div>
+    </div>
+    {% endif %}
+    
     <div id="main" role="main" class="container">
       <div class="col-70">{{ content }}</div>
       <div class="col-30">
