@@ -356,8 +356,9 @@ img {
 	
 	.site-info{
 		padding: 1.5rem 6rem;
-    border: 2px solid #fff;
-    box-shadow: 5px 5px #fff;
+		border: 2px solid #fff;
+		box-shadow: 5px 5px #fff;
+		margin: 1rem 0 3rem;
 	}
 	
   @include mobile {
@@ -525,38 +526,10 @@ img {
 	}
 }
 
-/*nav {
-  margin: 0.75rem 0; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-	padding: 0.5rem;
-	color: $darkGray;
-	text-align: right;
-	font-weight: 300;
-	letter-spacing: 1px;
-	display:inline-block;
-	font-size: 1rem;
-	font-weight: bold;
-
-	@include mobile {
-		margin: 0 10px;
-		color: $blue;
-	}
-  }
-}*/
-
 #menutop{
 	list-style:none;
 	display:inline-block;
+	margin:0;
 	li{
 		float:left;
 		width:175px;
