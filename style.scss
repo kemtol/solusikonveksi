@@ -459,6 +459,11 @@ img {
 
 #landing-page-2{
 	background:#75e1bd;
+	.a1{
+		@include mobile{
+			overflow-x:scroll;
+		}
+	}
 	table{
 		width:100%;
 		@include mobile{
