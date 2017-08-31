@@ -460,6 +460,10 @@ img {
 
 #landing-page-2{
 	background:#75e1bd;
+	padding:6rem 0
+	@include mobile{
+		padding:1rem 0;
+	}
 	.a1{
 		@include mobile{
 			overflow-x:scroll;
