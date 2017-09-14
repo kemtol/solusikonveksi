@@ -36,7 +36,7 @@ Woven label ini memiliki berbagai macam bahan dasar, yang paling sering digunaka
 
 ### Lalu berapa biaya untuk pembuatan woven label dan bagaimana perhitungannya?
 
-Harga woven label adalah **Rp 499.000**
+Harga woven label adalah **Rp 550.000**
 
 ### Berapa banyak woven label yang kita dapat?
 Anda akan mendapat sekitar 100 - 200 lusin tergantung besar kecil dan banyak benang dari design label anda. Saya jamin banyakkkk sekali!! Jadi banyak yang memasukkan biaya woven label ini ke dalam beban inisial saja atau bayar sekali saja.
