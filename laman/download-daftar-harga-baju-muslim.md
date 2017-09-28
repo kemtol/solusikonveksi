@@ -4,4 +4,4 @@ permalink: /download-daftar-harga-baju-muslim.html
 is_post: true
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt3sF3AuvE7qhFx9IHS7ARChXdbGo0VbIvbyyszJ8nyCeqtErQRzPd7S5DiSloJVT7dG2seetVpOIK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-Kv6Sgz_4iBVUR-3aDi_/view"></iframe>
