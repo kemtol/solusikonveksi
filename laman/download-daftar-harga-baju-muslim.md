@@ -15,17 +15,16 @@ is_post: true
 <tbody>
 </tbody>
 </table>
-
-
-### Ketentuan Produksi
-
-- Harga diatas adalah harga CMT saja tidak termasuk bahan.
-- Harga CMT diatas untuk pemesanan 1 model 4 kodi.
-- Boleh beda warna.
-- Harga dapat berubah mengikuti model dan quantity pemesanan.
-- Cancel fee Rp. 180.000,-
-- Ongkos Pola Rp 500.000 untuk model sulit, model mudah disesuaikan.
-
+<br/><br/>
+<h3>Ketentuan Produksi</h3>
+<ul>
+<li>Harga diatas adalah harga CMT saja tidak termasuk bahan.</li>
+<li>Harga CMT diatas untuk pemesanan 1 model 4 kodi.</li>
+<li>Boleh beda warna.</li>
+<li>Harga dapat berubah mengikuti model dan quantity pemesanan.</li>
+<li>Cancel fee Rp. 180.000,-</li>
+<li>Ongkos Pola Rp 500.000 untuk model sulit, model mudah disesuaikan.</li>
+</ul>
 
 
 
@@ -40,7 +39,7 @@ is_post: true
     
     $.each( tabletop.sheets("MuslimDewasa").all(), function(i, muslimdws) {
         var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>');
-        cat_li.append('<td class="nm">Rp ' + parseFloat(muslimdws.Harga1) + ' - ' + parseFloat(muslimdws.Harga2) +'</td></tr>');
+        cat_li.append('<td class="nm">Rp ' + muslimdws.Harga1 + ' - ' + muslimdws.Harga2 +'</td></tr>');
  -      cat_li.appendTo("#HargaMuslimDewasa");
     })
   
