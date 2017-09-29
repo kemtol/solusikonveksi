@@ -15,6 +15,7 @@ is_post: true
 <tbody>
 </tbody>
 </table>
+</div>
 <br/><br/>
 <h3>Ketentuan Produksi</h3>
 <ul>
@@ -25,10 +26,6 @@ is_post: true
 <li>Cancel fee Rp. 180.000,-</li>
 <li>Ongkos Pola Rp 500.000 untuk model sulit, model mudah disesuaikan.</li>
 </ul>
-
-
-
-
 
 
 <script type="text/javascript">
