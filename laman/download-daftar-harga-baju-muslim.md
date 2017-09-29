@@ -31,7 +31,7 @@ is_post: true
     });*/
     
     $.each( tabletop.sheets("MuslimDewasa").all(), function(i, muslimdws) {
-       var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>')		        var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>')
+        var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>');
         cat_li.append('<td class="nm">Rp ' + muslimdws.Harga1 + ' - ' + muslimdws.Harga2 +'</td></tr>');		        cat_li.append('<td class="nm">Rp ' + muslimdws.Harga1 + ' - ' + muslimdws.Harga2 +'</td></tr>');
  -      cat_li.appendTo("#HargaMuslimDewasa");
     })
