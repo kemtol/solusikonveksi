@@ -16,13 +16,14 @@ is_post: true
 </tbody>
 </table>
 
+
 ### Ketentuan Produksi
 
-– Harga diatas adalah harga CMT saja tidak termasuk bahan.
-– Harga CMT diatas untuk pemesanan 1 model 4 kodi.
+- Harga diatas adalah harga CMT saja tidak termasuk bahan.
+- Harga CMT diatas untuk pemesanan 1 model 4 kodi.
 - Boleh beda warna.
-– Harga dapat berubah mengikuti model dan quantity pemesanan.
-– Cancel fee Rp. 180.000,-
+- Harga dapat berubah mengikuti model dan quantity pemesanan.
+- Cancel fee Rp. 180.000,-
 - Ongkos Pola Rp 500.000 untuk model sulit, model mudah disesuaikan.
 
 
