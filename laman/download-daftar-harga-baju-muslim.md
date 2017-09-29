@@ -13,10 +13,6 @@ is_post: true
 </tr>
 </thead>
 <tbody>
-  <tr>
-    <td></td>
-    <td class="nm">Menarik data..</td>
-  </tr>
 </tbody>
 </table>
 
@@ -33,8 +29,6 @@ is_post: true
     /*$.each( tabletop.sheets(), function(i, sheet) {
       $("#table_info").append("<p>" + sheet.name + " has " + sheet.column_names.join(", ") + "</p>");
     });*/
-  
-    $("#HargaMuslimDewasa tbody").html();
     
     $.each( tabletop.sheets("MuslimDewasa").all(), function(i, muslimdws) {
        var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>')		        var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>')
