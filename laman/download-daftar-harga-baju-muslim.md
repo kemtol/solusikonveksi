@@ -33,12 +33,12 @@ is_post: true
     /*$.each( tabletop.sheets(), function(i, sheet) {
       $("#table_info").append("<p>" + sheet.name + " has " + sheet.column_names.join(", ") + "</p>");
     });*/
-    var cat_li = "";
+  
+    $("#HargaMuslimDewasa tbody").html()
     $.each( tabletop.sheets("MuslimDewasa").all(), function(i, muslimdws) {
-      cat_li = cat_li + $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td><td class="nm">Rp ' + parseFloat(muslimdws.Harga1) + ' - ' + parseFloat(muslimdws.Harga2) +'</td></tr>');
-      //cat_li.appendTo("#HargaMuslimDewasa tbody");
+      cat_li = append('<tr><td><strong>' + muslimdws.Jenis + '</strong></td><td class="nm">Rp ' + parseFloat(muslimdws.Harga1) + ' - ' + parseFloat(muslimdws.Harga2) +'</td></tr>');
+      cat_li.appendTo("#HargaMuslimDewasa tbody");
     })
-    $("#HargaMuslimDewasa tbody").html(cat_li)
   
   }  
 </script>
