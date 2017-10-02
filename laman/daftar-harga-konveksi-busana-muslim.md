@@ -46,15 +46,15 @@ Kami menerima pembuatan busana muslim wanita, baik pengerjaan secara PAKET, makl
 <tr>
 <td><strong>JAHIT MUDAH</strong><br>
 <i class="c1">Dihitung berdasarkan rata rata harga atasan</i></td>
-<td class="nm">Rp 35.000/PCS</td>
-<td class="mm">Rp 25.000/PCS<br>
+<td class="nm">Rp 45.000/PCS</td>
+<td class="mm">Rp 30.000/PCS<br>
 <strong>(-30%)</strong></td>
 </tr>
 <tr>
 <td><strong>JAHIT SEDANG/SET</strong><br>
 <i class="c1">Dihitung berdasarkan rata rata harga gamis</i></td>
-<td class="nm">Rp 50.000/PCS</td>
-<td class="mm">Rp 37.000/PCS<br>
+<td class="nm">Rp 59.000/PCS</td>
+<td class="mm">Rp 42.000/PCS<br>
 <strong>(-30%)</strong></td>
 </tr>
 </tbody>
