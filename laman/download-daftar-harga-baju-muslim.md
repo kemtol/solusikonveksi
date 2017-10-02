@@ -46,10 +46,10 @@ is_post: true
   }
   
   function getNotif(){
-    return "tes";
+    var xtext = "Sekarang anda dapat";
+    var xlink = '<a href="">DOWNLOAD</a>'
+    $("#notifBox div").html(xtext + xlink);
+    $("#notifBox").show();
   }
-  
-  function getLink(){
-    return "tis";
-  }   
+   
 </script>
