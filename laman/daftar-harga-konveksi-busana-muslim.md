@@ -97,3 +97,12 @@ Lalu bagaimana dengan busana saya? anda harus menghitungnya dan mengkonsultasika
 - Tidak ada pola, contoh jadi lebih bagus. Semisal: anda beli baju di uniqlo, anda suka modelnya kami buat duplikasi ala anda.
 
 Untuk konsultasi, ngobrol-ngobrol atau negosiasi harga dan penawaran dapat langsung menghubungi kami SOLUSIKONVEKSI di 0838 9072 2797.
+
+<script>
+  function getNotif(){
+    var xtext = "Sekarang anda dapat";
+    var xlink = '<a href="">DOWNLOAD</a>'
+    $("#notifBox div").html(xtext + xlink);
+    $("#notifBox").show();
+  }
+</script>
