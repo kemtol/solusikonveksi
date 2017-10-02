@@ -44,12 +44,4 @@ is_post: true
     cat_li.appendTo("#HargaMuslimDewasa tbody");
   })
   }
-  
-  function getNotif(){
-    var xtext = "Sekarang anda dapat";
-    var xlink = '<a href="">DOWNLOAD</a>'
-    $("#notifBox div").html(xtext + xlink);
-    $("#notifBox").show();
-  }
-   
 </script>
