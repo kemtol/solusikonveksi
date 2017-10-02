@@ -671,6 +671,28 @@ img {
 	margin-top:1rem;
 }
 
+#notifBox{
+	padding: 0 0.75rem;
+	margin-bottom:2rem;
+	div{
+		background: yellow;
+		padding: 2rem 10rem;
+		text-align: center;
+		font-family: georgia;
+		font-size: 1.5rem;
+		@include mobile{
+			font-size: 1.25rem;
+			padding:2rem;
+		}
+	}
+	
+	a{
+		display: block;
+		margin-top: 1rem;
+		text-decoration: underline;
+	}
+}
+
 .posts > .post {
   	padding-bottom: 2em;
 	border-bottom: 1px solid $lightGray;
