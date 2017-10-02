@@ -20,7 +20,6 @@ is_post: true
 </tbody>
 </table>
 </div>
-<br/><br/>
 <h3>Ketentuan Produksi</h3>
 <ul>
 <li>Harga diatas adalah harga CMT saja tidak termasuk bahan.</li>
