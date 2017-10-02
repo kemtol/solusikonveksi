@@ -43,6 +43,13 @@ is_post: true
     cat_li.append('<td class="nm">Rp ' + muslimdws.Harga1 + ' - ' + muslimdws.Harga2 +'</td></tr>');
     cat_li.appendTo("#HargaMuslimDewasa tbody");
   })
+  }
   
-  }  
+  function getNotif(){
+    return "tes";
+  }
+  
+  function getLink(){
+    return "tis";
+  }   
 </script>
