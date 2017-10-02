@@ -13,6 +13,10 @@ is_post: true
 </tr>
 </thead>
 <tbody>
+  <tr>
+    <td></td>
+    <td class="nm">Menarik data..</td>
+  </tr>
 </tbody>
 </table>
 </div>
@@ -34,11 +38,11 @@ is_post: true
       $("#table_info").append("<p>" + sheet.name + " has " + sheet.column_names.join(", ") + "</p>");
     });*/
     
-    $.each( tabletop.sheets("MuslimDewasa").all(), function(i, muslimdws) {
-        var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>');
-        cat_li.append('<td class="nm">Rp ' + muslimdws.Harga1 + ' - ' + muslimdws.Harga2 +'</td></tr>');
- -      cat_li.appendTo("#HargaMuslimDewasa");
-    })
+  $.each( tabletop.sheets("MuslimDewasa").all(), function(i, muslimdws) {
+    var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>');
+    cat_li.append('<td class="nm">Rp ' + muslimdws.Harga1 + ' - ' + muslimdws.Harga2 +'</td></tr>');
+    cat_li.appendTo("#HargaMuslimDewasa");
+  })
   
   }  
 </script>
