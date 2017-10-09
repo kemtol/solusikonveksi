@@ -25,13 +25,10 @@
         }catch(err){}
         
         try{
-          getNotif();
-        }catch(err){}
-        
-        function showNotif(xtext,xlink){
-          $("#notifBox div").html(xtext + xlink);
+          var xcont= getNotif();
+          $("#notifBox div").html();
           $("#notifBox").show();
-        }
+        }catch(err){}
       })
     </script>  
   </head>
