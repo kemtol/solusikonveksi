@@ -36,7 +36,7 @@ semudah berhitung 1,2,3,4,5
 
 <script>
   function getNotif(){
-    var xtext = "Harga paket minimum woven label Rp 550.000<br>Qty 400 lusin, proses produksi 7 hari";
+    var xtext = "Harga paket minimum woven label<br/>Rp 550.000<br>Qty 400 lusin<br/>proses produksi 7 hari";
     var xlink = '';
     return xtext+xlink;
   }
