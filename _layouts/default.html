@@ -16,20 +16,18 @@
       var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1gEMw7FskyJBwgfx8TY1jL1MtGroE4REVd4jo2eSkS6U/edit?usp=sharing';
       $(document).ready( function() {
         try{
-        Tabletop.init( {
-          key: public_spreadsheet_url,
-          callback: showInfo,
-          wanted: [ "MuslimDewasa", "MuslimAnak" ],
-          debug: true
-          } )
-          }catch(err){
-          }   
-          /*try{
-              getNotif();
-          }catch(err){
-          }*/
-        })
-
+          Tabletop.init( {
+            key: public_spreadsheet_url,
+            callback: showInfo,
+            wanted: [ "MuslimDewasa", "MuslimAnak" ],
+            debug: true
+          })
+        }catch(err){}
+        
+        try{
+          getNotif();
+        }catch(err){}
+      })
     </script>  
   </head>
 
