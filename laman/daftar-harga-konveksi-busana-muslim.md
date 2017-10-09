@@ -102,6 +102,6 @@ Untuk konsultasi, ngobrol-ngobrol atau negosiasi harga dan penawaran dapat langs
   function getNotif(){
     var xtext = "Sekarang anda dapat";
     var xlink = '<a href="">DOWNLOAD</a>';
-    showNotif(xtext,xlink);
+    return xtext+xlink;
   }
 </script>
