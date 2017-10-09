@@ -63,3 +63,11 @@ Tidak tentu, tergantung berapa panjang logo terhadap gulungan pitanya itu sendir
 Anda dapat memesannya di **Toko Maju, Mayestik, Jakarta Selatan**. Bawa flask disk yang berisi design label anda setelah itu tunggu 3-4 hari untuk pengambilan.
 
 Semoga penjelasan mengenai perbedaan antara woven label dan label sablon pita berguna untuk anda para pengusaha sekalian.
+
+<script>
+  function getNotif(){
+    var xtext = "Harga paket minimum woven label Rp 550.000<br>Qty 400 lusin, proses produksi 7 hari";
+    var xlink = '';
+    return xtext+xlink;
+  }
+</script>
