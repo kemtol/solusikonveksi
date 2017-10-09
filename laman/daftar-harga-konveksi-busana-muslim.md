@@ -101,8 +101,7 @@ Untuk konsultasi, ngobrol-ngobrol atau negosiasi harga dan penawaran dapat langs
 <script>
   function getNotif(){
     var xtext = "Sekarang anda dapat";
-    var xlink = '<a href="">DOWNLOAD</a>'
-    $("#notifBox div").html(xtext + xlink);
-    $("#notifBox").show();
+    var xlink = '<a href="">DOWNLOAD</a>';
+    showNotif(xtext,xlink);
   }
 </script>
