@@ -100,8 +100,8 @@ Untuk konsultasi, ngobrol-ngobrol atau negosiasi harga dan penawaran dapat langs
 
 <script>
   function getNotif(){
-    var xtext = "Sekarang anda dapat";
-    var xlink = '<a href="">DOWNLOAD</a>';
+    var xtext = "Sekarang anda dapat melihat detail harga per model";
+    var xlink = '<a href="/download-daftar-harga-baju-muslim.html">DOWNLOAD</a>';
     return xtext+xlink;
   }
 </script>
