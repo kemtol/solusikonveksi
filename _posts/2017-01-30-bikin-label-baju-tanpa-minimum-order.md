@@ -66,7 +66,7 @@ Semoga penjelasan mengenai perbedaan antara woven label dan label sablon pita be
 
 <script>
   function getNotif(){
-    var xtext = "Harga paket minimum woven label<br/>Rp 550.000<br>Qty 400 lusin<br/>proses produksi 7 hari";
+  var xtext = "Harga paket minimum woven label<br/><strong>Rp 550.000</strong><br>Qty 400 lusin<br/>proses produksi 7 hari";
     var xlink = '';
     return xtext+xlink;
   }
