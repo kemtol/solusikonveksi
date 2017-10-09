@@ -19,7 +19,7 @@ Woven label damask tidak mengkilap, tidak gatel, lebih lembut namun kurang terli
 Woven label satin cenderung mengkilat, sedikit kaku dan kurang lembut. Woven label ini cocok untuk pinggiran hijab karena terlihat mewah.
 
 ## Harga Pembuatan Woven Label
-1 paket seharga **Rp 499.000** isi buanyakkkkkk plus minus 200 lusin. Jika anda baru mulai berbisnis clothing atau busana dengan merk sendiri ini sudah lebih dari cukup
+1 paket seharga **Rp 550.000** isi buanyakkkkkk plus minus 200 lusin. Jika anda baru mulai berbisnis clothing atau busana dengan merk sendiri ini sudah lebih dari cukup
 
 ## Cara Memesan Woven Label
 Di jasakonveksi.com tidak susah untuk memesan woven label, tahapannya:
