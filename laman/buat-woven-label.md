@@ -34,3 +34,10 @@ semudah berhitung 1,2,3,4,5
 ## Hubungi No Dibawah Untuk Pemesanan Woven Label
 **WA 0838-9072-2797** untuk langsung berbicara dengan CS kami.
 
+<script>
+  function getNotif(){
+    var xtext = "Harga paket minimum woven label Rp 550.000<br>Qty 400 lusin, proses produksi 7 hari";
+    var xlink = '';
+    return xtext+xlink;
+  }
+</script>
