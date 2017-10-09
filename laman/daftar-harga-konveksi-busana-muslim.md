@@ -100,8 +100,8 @@ Untuk konsultasi, ngobrol-ngobrol atau negosiasi harga dan penawaran dapat langs
 
 <script>
   function getNotif(){
-    var xtext = "Sekarang anda dapat melihat detail harga per model";
-    var xlink = '<a href="/download-daftar-harga-baju-muslim.html">DOWNLOAD</a>';
+    var xtext = "Takut harga tidak transparant? Sekarang anda dapat melihat detail harga per model";
+    var xlink = '<a href="/download-daftar-harga-baju-muslim.html">CEK HARGA JAHIT PER MODEL</a>';
     return xtext+xlink;
   }
 </script>
