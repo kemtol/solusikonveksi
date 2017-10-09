@@ -27,6 +27,11 @@
         try{
           getNotif();
         }catch(err){}
+        
+        function showNotif(xtext,xlink){
+          $("#notifBox div").html(xtext + xlink);
+          $("#notifBox").show();
+        }
       })
     </script>  
   </head>
