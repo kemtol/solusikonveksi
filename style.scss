@@ -403,6 +403,7 @@ span.h1Alt{
 				display:inherit;
 				@include mobile {
 					max-width:80%;
+					display:inline;
 				}
 			}
 			@include mobile {
