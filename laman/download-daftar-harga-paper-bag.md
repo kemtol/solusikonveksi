@@ -38,7 +38,7 @@ is_post: true
   $("#HargaBag tbody").html("");
   $.each( tabletop.sheets("Bag").all(), function(i, bags) {
     var cat_li = $('<tr><td><strong>' + bags.Jenis + '</strong></td>');
-  cat_li.append('<td class="nm">' + bags.Kecil + ' </td><td class="nm">'+ bags.Sedang +'</td><td class="nm">'+ bags.Besar +'</td><td class="nm"> ' + bags.Jumbo +'</td></tr>');
+  cat_li.append('<td class="nm">Rp ' + bags.Kecil + ' </td><td class="nm">Rp '+ bags.Sedang +'</td><td class="nm">Rp '+ bags.Besar +'</td><td class="nm">Rp ' + bags.Jumbo +'</td></tr>');
     cat_li.appendTo("#HargaBag tbody");
   })
   }
