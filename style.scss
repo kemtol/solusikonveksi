@@ -378,7 +378,8 @@ span.h1Alt{
 		padding: 1.5rem 6rem;
 		border: 2px solid #fff;
 		box-shadow: 5px 5px #fff;
-		margin: 1rem 0 3rem;
+		margin: 1rem 0 5rem;
+		background:#3cc192;
 		@include mobile{
 			padding:1.5rem;
 			margin-bottom:1rem;
@@ -399,6 +400,7 @@ span.h1Alt{
 		.b1{
 			float:left;
 			img{
+				display:inherit;
 				@include mobile {
 					max-width:80%;
 				}
@@ -441,19 +443,23 @@ span.h1Alt{
 				padding: 20px 40px;
 				text-decoration: none;
 				margin-bottom: 20px;
-				width: 25%;
+				width: 30%;
 				border-radius: 10px;
 				text-align: center;
 				font-weight: bold;
 				border-bottom: 5px solid #444;
-				font-size:0.9rem;
+				font-size:1rem;
 				
 				@include mobile {
 					width:75%;
 				}
 			}
+			.btnb::after{
+				content="➜";
+			}
 			.btnb.q1{
-				background: #0099ff;
+				background: yellow;
+    				color: #111;
 			}
 			@include mobile {
 				padding-top: 1rem;
