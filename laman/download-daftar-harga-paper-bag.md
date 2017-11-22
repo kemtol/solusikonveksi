@@ -38,7 +38,7 @@ is_post: true
   $("#HargaMuslimDewasa tbody").html("");
   $.each( tabletop.sheets("Bag").all(), function(i, muslimdws) {
     var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>');
-    cat_li.append('<td class="nm">Rp ' + muslimdws.Harga1 + ' - ' + muslimdws.Harga2 +'</td></tr>');
+    cat_li.append('<td class="nm">Rp ' + muslimdws.Kecil + ' - ' + muslimdws.Jumbo +'</td></tr>');
     cat_li.appendTo("#HargaMuslimDewasa tbody");
   })
   }
