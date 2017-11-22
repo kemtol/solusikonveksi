@@ -9,7 +9,10 @@ is_post: true
 <thead>
 <tr>
   <th style="background: aliceblue;" width="40%"></th>
-  <th width="60%">Harga</th>
+  <th width="15%">Kecil</th>
+  <th width="15%">Sedang</th>
+  <th width="15%">Besar</th>
+  <th width="15%">Jumbo</th>
 </tr>
 </thead>
 <tbody>
@@ -36,9 +39,9 @@ is_post: true
     });*/
   
   $("#HargaMuslimDewasa tbody").html("");
-  $.each( tabletop.sheets("Bag").all(), function(i, muslimdws) {
-    var cat_li = $('<tr><td><strong>' + muslimdws.Jenis + '</strong></td>');
-    cat_li.append('<td class="nm">Rp ' + muslimdws.Kecil + ' - ' + muslimdws.Jumbo +'</td></tr>');
+  $.each( tabletop.sheets("Bag").all(), function(i, bags) {
+    var cat_li = $('<tr><td><strong>' + bags.Jenis + '</strong></td>');
+  cat_li.append('<td class="nm">' + bags.Kecil + ' </td><td class="nm">'+ bags.Sedang +'</td><td class="nm">'+ bags.Besar +'</td><td class="nm"> ' + bags.Jumbo +'</td></tr>');
     cat_li.appendTo("#HargaMuslimDewasa tbody");
   })
   }
