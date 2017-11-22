@@ -1,5 +1,5 @@
 ---
-title: Download Daftar Harga Paper Bag, Tote Bag dan Plastik Bag.
+title: Download Daftar Harga Paper Bag, Tote Bag dan Plastik Ba
 permalink: /download-daftar-harga-paper-bag.html
 is_post: true
 ---
