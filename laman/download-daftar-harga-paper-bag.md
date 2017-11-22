@@ -8,11 +8,11 @@ is_post: true
 <table class="post-tab-1" id="HargaBag">
 <thead>
 <tr>
-  <th style="background: aliceblue;" width="24%"></th>
-  <th width="19%">Kecil</th>
-  <th width="19%">Sedang</th>
-  <th width="19%">Besar</th>
-  <th width="19%">Jumbo</th>
+  <th style="background: aliceblue;" width="28%"></th>
+  <th width="18%">Kecil</th>
+  <th width="18%">Sedang</th>
+  <th width="18%">Besar</th>
+  <th width="18%">Jumbo</th>
 </tr>
 </thead>
 <tbody>
