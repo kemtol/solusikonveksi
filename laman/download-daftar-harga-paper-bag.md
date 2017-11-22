@@ -5,20 +5,20 @@ is_post: true
 ---
 
 <div class="table-responsive">
-<table class="post-tab-1" id="HargaMuslimDewasa">
+<table class="post-tab-1" id="HargaBag">
 <thead>
 <tr>
-  <th style="background: aliceblue;" width="40%"></th>
-  <th width="15%">Kecil</th>
-  <th width="15%">Sedang</th>
-  <th width="15%">Besar</th>
-  <th width="15%">Jumbo</th>
+  <th style="background: aliceblue;" width="24%"></th>
+  <th width="19%">Kecil</th>
+  <th width="19%">Sedang</th>
+  <th width="19%">Besar</th>
+  <th width="19%">Jumbo</th>
 </tr>
 </thead>
 <tbody>
   <tr>
     <td></td>
-    <td class="nm">Menarik data..</td>
+    <td class="nm" colspan="4">Menarik data..</td>
   </tr>
 </tbody>
 </table>
@@ -34,15 +34,12 @@ is_post: true
 
 <script type="text/javascript">
   function showInfo(data, tabletop) {
-    /*$.each( tabletop.sheets(), function(i, sheet) {
-      $("#table_info").append("<p>" + sheet.name + " has " + sheet.column_names.join(", ") + "</p>");
-    });*/
   
-  $("#HargaMuslimDewasa tbody").html("");
+  $("#HargaBag tbody").html("");
   $.each( tabletop.sheets("Bag").all(), function(i, bags) {
     var cat_li = $('<tr><td><strong>' + bags.Jenis + '</strong></td>');
   cat_li.append('<td class="nm">' + bags.Kecil + ' </td><td class="nm">'+ bags.Sedang +'</td><td class="nm">'+ bags.Besar +'</td><td class="nm"> ' + bags.Jumbo +'</td></tr>');
-    cat_li.appendTo("#HargaMuslimDewasa tbody");
+    cat_li.appendTo("#HargaBag tbody");
   })
   }
 </script>
