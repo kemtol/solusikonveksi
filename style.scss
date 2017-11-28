@@ -636,9 +636,10 @@ span.h1Alt{
 	list-style:none;
 	display:inline-block;
 	margin:5rem 0;
+	width:100%;
 	li{
 		float:left;
-		width:175px;
+		width:calc(25% - 20px);
 		text-align:center;
 		margin:5px 10px;
 		font-weight:bold;
@@ -646,14 +647,20 @@ span.h1Alt{
 		letter-spacing: 1px;
 		a{
 			display:block;
-			height:175px;
+			height:100%;
+			padding-top:95%;
 			border-radius:50%;
 			overflow:hidden;
 			box-sizing:border-box;
 			border:4px solid #fff;
 			margin-bottom:1rem;
+			position:relative;
 			img{
-				width:100%
+				width:100%;
+				position: absolute;
+				top: 0;
+				left: 0;
+				max-width: initial;
 			}
 			
 			@include mobile{
