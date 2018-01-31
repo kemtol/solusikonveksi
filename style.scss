@@ -793,6 +793,9 @@ span.h1Alt{
 		margin-bottom: 1rem;
 		display: inline-block;
 	}
+	.read-more:after{
+		content:'\27F6';
+	}
 }
 
 .page{
