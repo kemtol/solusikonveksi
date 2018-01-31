@@ -718,7 +718,6 @@ span.h1Alt{
 	margin-bottom:1rem;
 	h2.posts-title{
 		margin-top: 0.75rem;
-    		margin-bottom: 2rem;
     		font-size: 2rem;
 		a{
 			color:#111;
@@ -779,7 +778,7 @@ span.h1Alt{
 	}
 
 	.read-more {
-		text-transform: uppercase;
+		/*text-transform: uppercase;
 		font-size: 15px;
 		display: block;
 		background: #eee;
@@ -790,7 +789,9 @@ span.h1Alt{
 		color: #666;
 		font-size: 0.8rem;
 		border-radius: 6px;
-		border: 1px solid #ddd;
+		border: 1px solid #ddd;*/
+		margin-bottom: 1rem;
+		display: inline-block;
 	}
 }
 
