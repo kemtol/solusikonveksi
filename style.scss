@@ -479,6 +479,11 @@ span.h1Alt{
 }
 
 #landing-page-0{
+	span.h1Alt{
+		@include mobile{
+			padding-top:1rem !important;
+		}	
+	}
 	ul{
 		font-size: 1.75rem;
 		color: #fff;
@@ -518,9 +523,6 @@ span.h1Alt{
 			padding: 1.5rem;
 			font-size:1.375rem;
 		}
-	}
-	@include mobile{
-		padding-top:1rem !important;
 	}
 }
 
@@ -604,7 +606,7 @@ span.h1Alt{
 	letter-spacing: 1px;
 	margin-bottom:1.5rem;
 	a{
-		color:yellow;
+		color:yellow !important;
 	}
 }
 
