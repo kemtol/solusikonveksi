@@ -485,6 +485,22 @@ span.h1Alt{
 		border: 2px solid #fff;
 		font-family: georgia;
 		li{
+			position:relative;
+			span.nbr{
+				display: flex;
+				background: yellow;
+				color: black;
+				width: 4rem;
+				height: 4rem;
+				justify-content: center;
+				align-items: center;
+				border-radius: 50%;
+				position: absolute;
+				left: -2rem;
+				@include mobile{
+					left: -1rem;
+				}
+			}
 			a{
 				color:yellow;
 				display:block;
@@ -495,7 +511,8 @@ span.h1Alt{
 			}
 		}
 		@include mobile{
-		    padding: 1.5rem;
+			padding: 1.5rem;
+			font-size:1.5rem;
 		}
 	}
 }
