@@ -486,6 +486,7 @@ span.h1Alt{
 		font-family: georgia;
 		li{
 			position:relative;
+			padding-left:4rem;
 			span.nbr{
 				display: flex;
 				background: yellow;
@@ -512,7 +513,7 @@ span.h1Alt{
 		}
 		@include mobile{
 			padding: 1.5rem;
-			font-size:1.5rem;
+			font-size:1.375rem;
 		}
 	}
 }
