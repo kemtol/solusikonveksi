@@ -475,6 +475,31 @@ span.h1Alt{
 	}
 }
 
+#landing-page-0{
+	ul{
+		font-size: 1.75rem;
+		color: #fff;
+		background: #40b98e;
+		list-style: none;
+		padding: 2.5rem 5rem;
+		border: 2px solid #fff;
+		font-family: georgia;
+		li{
+			a{
+				color:yellow;
+				display:block;
+				margin-bottom:2rem;
+			}
+			a:after{
+				content: '\27F6';
+			}
+		}
+		@include mobile{
+		    padding: 1.5rem;
+		}
+	}
+}
+
 #landing-page-2{
 	background:#75e1bd;
 	padding:6rem 0;
