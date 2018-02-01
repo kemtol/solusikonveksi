@@ -512,8 +512,9 @@ span.h1Alt{
 			}
 			a{
 				color:yellow;
-				display:block;
+				display:inline-block;
 				margin-bottom:2rem;
+			    	border-bottom: 5px solid yellow;
 			}
 			a:after{
 				content: '\27F6';
