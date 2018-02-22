@@ -428,8 +428,9 @@ span.h1Alt{
 			}
 			.spanh3{
 				font-weight: 900;
-				font-size: 3.5rem;
-				color:#fff;
+				font-size: 3rem;
+			    	color: yellow;
+				text-shadow: 1px 2px 0px #000;
 				display:block;
 				@include mobile {
 					font-size:2.25rem;
