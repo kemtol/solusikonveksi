@@ -396,6 +396,21 @@ span.h1Alt{
 }
 
 #landing-page{
+	position: relative;
+    	overflow: hidden;
+   	margin: 2rem auto;
+	
+	#landing-page-bg{
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		background: url(https://images.pexels.com/photos/327173/pexels-photo-327173.jpeg?w=940&amp;h=650&amp;auto=compress&amp;cs=tinysrgb) no-repeat;
+		z-index: -1;
+		background-size: cover;
+		top: 0;
+		left: 0;
+	}
+
 	.a1{
 	    min-width: 960px;
 	    max-width: 1200px;
