@@ -591,6 +591,27 @@ span.h1Alt{
 	}
 }
 
+#landing-page-3{
+	background: #97e5cb;
+	padding: 6rem 0;
+	.b1{
+		float: left;
+		width: 60%;
+		img{
+		    margin-top: 2rem;
+		}
+	}
+	.b2{
+		float: left;
+		width: 40%;
+		ul{
+			li.col-33{
+				width:90%;
+			}
+		}
+	}
+}
+
 .site-info {
 
   @include mobile {
