@@ -46,7 +46,9 @@ Jika anda hitung secara rata-rata maka biaya per pcs woven label adalah Rp 100-2
 ### Dimana saya bisa memesan woven label untuk brand fashion online saya?
 Anda dapat memesannya di **WA 083890722797**, add WA lalu kirimkan design label anda.
 
-## Sablon Pita
+<a href="https://api.whatsapp.com/send?phone=6283890722797&text=Halo%20mau%20pesan%20woven" style="font-family: georgia;font-size: 2.5rem;text-decoration: underline;display: inline-block;padding: 2rem;color:blue;" class="btn-cta-post">Pesan woven label, proses cepat! Klik disini→</a>
+
+## Apa Itu Sablon Pita
 Jika anda masih ragu untuk memesan woven label sebenarnya ada alternatif lain yaitu sablon pada pita. Biasanya kita menyebutnya label sablon pita. Lain halnya dengan woven label, label sablon pita ini dicetak menggunakan teknik printing bukan tenun.
 
 Dari segi ketahanan tentu label pita sablon lebih rentan hilang karena terkikis dan luntur ketika dicuci dibandingkan dengan woven label. Namun untuk beberapa orang yang terbebani dengan banyaknya jumlah pemesanan dari woven label, sablon pita akan lebih efisien.
@@ -61,6 +63,8 @@ Tidak tentu, tergantung berapa panjang logo terhadap gulungan pitanya itu sendir
 
 ### Dimana Saya bisa memesan label sablon pita ini?
 Anda dapat memesannya di **Toko Maju, Mayestik, Jakarta Selatan**. Bawa flask disk yang berisi design label anda setelah itu tunggu 3-4 hari untuk pengambilan.
+
+<a href="https://api.whatsapp.com/send?phone=6283890722797&text=Halo%20mau%20pesan%20pita" style="font-family: georgia;font-size: 2.5rem;text-decoration: underline;display: inline-block;padding: 2rem;color:blue;" class="btn-cta-post">Pesan pita sablon label, proses cepat! Klik disini→</a>
 
 Semoga penjelasan mengenai perbedaan antara woven label dan label sablon pita berguna untuk anda para pengusaha sekalian.
 
