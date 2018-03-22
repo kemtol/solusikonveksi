@@ -457,7 +457,7 @@ span.h1Alt{
 				font-size:1rem;
 				
 				@include mobile {
-					width:75%;
+					width:100%;
 				}
 			}
 			.btnb::after{
@@ -551,6 +551,9 @@ span.h1Alt{
 				width:33.3%;
 				.packs{
 					padding:1rem;
+					@include mobile{
+						padding:0.5rem;
+					}
 					.a1{
 						background:#18815e;
 						text-align:center;
@@ -582,7 +585,11 @@ span.h1Alt{
 							border-left: 1px solid #75e1bd;
 							border-right: 1px solid #75e1bd;
 							padding: 0.5rem 1rem;
-							font-style:italic
+							font-style:italic;
+							.btn{
+						    		border-radius: 10px;
+							    	font-size: 1rem;
+							}
 						}
 					}
 				}
@@ -726,6 +733,7 @@ span.h1Alt{
 	list-style:none;
 	display:inline-block;
 	margin:0 0 5rem 0;
+	padding:0;
 	width:100%;
 	li{
 		float:left;
@@ -768,7 +776,7 @@ span.h1Alt{
 			padding:1rem;
 		}
 	}
-	@include mobile{padding:0;margin-bottom:1rem;}
+	@include mobile{padding:0;}
 }
 //
 // .main
