@@ -630,6 +630,10 @@ span.h1Alt{
 					width:100%;
 				}
 			}
+			@include mobile{
+				padding: 1rem;
+				border: 2px solid #fff;
+			}
 		}
 	}
 }
