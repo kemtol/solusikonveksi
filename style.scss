@@ -484,6 +484,9 @@ span.h1Alt{
 
 #landing-page-0{
 	padding:3rem 0;
+	@include mobile{
+		padding:1rem 0;
+	}
 	span.h1Alt{
 		@include mobile{
 			padding-top:1rem !important;
