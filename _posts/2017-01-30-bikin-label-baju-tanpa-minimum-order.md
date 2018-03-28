@@ -51,6 +51,8 @@ Anda dapat memesannya di **WA 083890722797**, add WA lalu kirimkan design label 
 ## Apa Itu Sablon Pita
 Jika anda masih ragu untuk memesan woven label sebenarnya ada alternatif lain yaitu sablon pada pita. Biasanya kita menyebutnya label sablon pita. Lain halnya dengan woven label, label sablon pita ini dicetak menggunakan teknik printing bukan tenun.
 
+<img border="0" src="/images/jasa-pembuatan-label-pita-sablon.jpg" style="margin-left: auto; margin-right: auto; width: 95%;">
+
 Dari segi ketahanan tentu label pita sablon lebih rentan hilang karena terkikis dan luntur ketika dicuci dibandingkan dengan woven label. Namun untuk beberapa orang yang terbebani dengan banyaknya jumlah pemesanan dari woven label, sablon pita akan lebih efisien.
 
 Walau secara kasat mata woven label lebih terkesan eksklusif namun ada beberapa label pada sebuah baju, seperti contoh wash care label di samping dalam kaos yang cenderung lebih cocok menggunakan label sablon pita.
