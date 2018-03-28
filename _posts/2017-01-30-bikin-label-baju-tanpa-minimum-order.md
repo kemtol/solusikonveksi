@@ -53,6 +53,8 @@ Jika anda masih ragu untuk memesan woven label sebenarnya ada alternatif lain ya
 
 <img border="0" src="/images/jasa-pembuatan-label-pita-sablon.jpg" style="margin-left: auto; margin-right: auto; width: 95%;">
 
+<small>Hasil Jadi Label Pita Sablon</small>
+
 Dari segi ketahanan tentu label pita sablon lebih rentan hilang karena terkikis dan luntur ketika dicuci dibandingkan dengan woven label. Namun untuk beberapa orang yang terbebani dengan banyaknya jumlah pemesanan dari woven label, sablon pita akan lebih efisien.
 
 Walau secara kasat mata woven label lebih terkesan eksklusif namun ada beberapa label pada sebuah baju, seperti contoh wash care label di samping dalam kaos yang cenderung lebih cocok menggunakan label sablon pita.
