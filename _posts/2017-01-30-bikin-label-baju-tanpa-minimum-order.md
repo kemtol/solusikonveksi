@@ -66,7 +66,7 @@ Harga pembuatan label pita sablon ini dihitung pergulung, pergulung kira-kira 15
 Tidak tentu, tergantung berapa panjang logo terhadap gulungan pitanya itu sendiri. Jika dihitung rata-rata kemungkinan besar anda akan mendapatkan 200pcs per gulung-nya
 
 ### Dimana Saya bisa memesan label sablon pita ini?
-Anda dapat memesannya di **Toko Maju, Mayestik, Jakarta Selatan**. Bawa flask disk yang berisi design label anda setelah itu tunggu 3-4 hari untuk pengambilan.
+Anda dapat memesannya di **Toko Maju, Mayestik, Jakarta Selatan**. Bawa flask disk yang berisi design label anda setelah itu tunggu 3-4 hari untuk pengambilan. Atau jika anda tidak mau repot, anda bisa klik link dibawah, kirim file gambar, kalau belum punya bisa juga dibuatkan design labelnya. Lebih cepat dan nyaman.
 
 <a href="https://api.whatsapp.com/send?phone=6283890722797&text=Halo%20mau%20pesan%20pita" style="font-family: georgia;font-size: 2.5rem;text-decoration: underline;display: inline-block;padding: 2rem;color:blue;" class="btn-cta-post">Pesan pita sablon label, proses cepat! Klik disini→</a>
 
@@ -74,7 +74,7 @@ Semoga penjelasan mengenai perbedaan antara woven label dan label sablon pita be
 
 <script>
   function getNotif(){
-  var xtext = "Harga paket minimum woven label<br/><strong>Rp 550.000</strong><br>Qty 400 lusin<br/>proses produksi 7 hari";
+  var xtext = "Harga paket minimum woven label<br/><strong>Rp 550.000</strong><br>Qty 400 lusin<br/>proses produksi 7 hari<br/><br/>Harga paket minimum label pita sablon<br/><strong>Rp 375.000</strong><br>Qty 3 roll<br/>proses produksi 7 hari<br/><br/>SUDAH INCLUDE DESIGN DAN FREE ONGKIR JABODETABEK";
     var xlink = '';
     return xtext+xlink;
   }
