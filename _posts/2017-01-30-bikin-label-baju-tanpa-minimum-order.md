@@ -74,7 +74,7 @@ Semoga penjelasan mengenai perbedaan antara woven label dan label sablon pita be
 
 <script>
   function getNotif(){
-  var xtext = "PAKET MIN WOVEN LABEL:<br/><strong>Rp 550.000</strong><br>Qty 400 lusin<br/>proses produksi 7 hari<hr style="border: 0;height: 1px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));" />PAKET MIN PITA SABLON:<br/><strong>Rp 375.000</strong><br>Qty 3 roll<br/>proses produksi 7 hari<hr style="border: 0;height: 1px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));" />SUDAH INCLUDE DESIGN DAN FREE ONGKIR JABODETABEK";
+  var xtext = "PAKET MIN WOVEN LABEL:<br/><strong>Rp 550.000</strong><br>Qty 400 lusin<br/>proses produksi 7 hari<hr style='border: 0;height: 1px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));' />PAKET MIN PITA SABLON:<br/><strong>Rp 375.000</strong><br>Qty 3 roll<br/>proses produksi 7 hari<hr style='border: 0;height: 1px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));' />SUDAH INCLUDE DESIGN DAN FREE ONGKIR JABODETABEK";
     var xlink = '';
     return xtext+xlink;
   }
