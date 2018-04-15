@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pabrik Konveksi Baju Wanita, Jahit Halus dan Kodian
-permalink: /2017/07/konveksi-model-baju-koko-jakarta.html
+permalink: /2018/04/pabrik-konveksi-baju-jahit-halus.html
 ---
 
 ## Salah kaprah tentang PABRIK BAJU, KONVEKSI, JAHIT HALUS dan JAHIT KODIAN
