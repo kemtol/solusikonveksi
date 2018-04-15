@@ -28,30 +28,38 @@ Dengan banyaknya chat seperti diatas maka saya bisa pastikan banyak yang ingin m
 
 ## Pabrik baju atau biasa disebut garmen
 **Agar lebih mudah dipahami:**
+
 Pabrik garmen atau pabrik baju adalah fasilitas produksi skala besar, supply baju ini tidak cocok untuk UKM.
 
 **Contoh:**
+
 PT Sritex di solo melayani pembuatan secara *Full Order Buy** (FOB) seragam militer untuk keperluan angkatan bersenjata di beberapa negara.
 
 **Penjelasan detail:**
+
 Pabrik garmen baju menggunakan sistem line untuk pengerjaannya, ciri-ciri dari operasional mereka adalah mereka fokus mengerjakan orderan dengan jumlah yang sangat besar. Biasanya untuk expor, bilapun tidak, mereka adalah supplier untuk pemasok grup distributor besar non importir contohnya seperti Delami group.
 
 Jika ibu dan bapak datang ke mall lalu melihat basic apparel seperti celana dalam, kaos kaki, baju polos, kemeja kerja non tailoring seperti Alisan dan Executive, maka kemungkinan besar mereka menggunakan pabrik garmen.
 
 **Minimum order**
+
 MOQ (Minimum Order Quantity) mereka setidaknya adalah 10.000 pcs.
 
 ## Konveksi Baju
 **Agar lebih mudah dipahami:**
+
 Konveksi adalah fasilitas produksi skala kecil menengah, supply baju ini cocok untuk UKM.
 
 **Contoh:**
+
 Konveksi kaos, konveksi seragam, konveksi baju muslim, konveksi jaket, dll..
 
 **Penjelasan detail:**
+
 Konveksi ada yang menggunakan sistem line untuk pengerjaannya, ada juga yang menggunakan satu orang satu baju. Jika ibu sering berlalu-lalang di online shop maka kemungkinan besar produk yang ibu lihat adalah produk akhir dari konveksi.
 
 **Minimum order:**
+
 MOQ (Minimum Order Quantity) dari konveksi biasanya adalah 2 atau 3 lusin per modelnya.
 
 Lebih lanjut untuk jahit halus kita lanjut besok ya..
