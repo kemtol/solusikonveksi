@@ -3,8 +3,6 @@ layout: post
 title: Pabrik Konveksi Baju Wanita, Jahit Halus dan Kodian
 permalink: /2018/04/pabrik-konveksi-baju-jahit-halus.html
 ---
-
-## Salah kaprah tentang PABRIK BAJU, KONVEKSI, JAHIT HALUS dan JAHIT KODIAN
 Banyak yang whatsapp saya bertanya tanpa salam dan permisi
 
 "Bisa menjahit baju ini pak?"
@@ -23,6 +21,7 @@ Banyak yang whatsapp saya bertanya tanpa salam dan permisi
 
 "Mati ambooooo, mohon maaf tidak bisa"
 
+## Salah kaprah tentang PABRIK BAJU, KONVEKSI, JAHIT HALUS dan JAHIT KODIAN
 Kira kira seperti itulah pembicaraan saya dengan ibu-ibu calon pengusaha baju. Kadang saya jelasin dengan sabar karena yang nanya juga sopan dan mau belajar. Tapi namanya juga manusia kadang sebel juga kalau yang nanya gayanya super bossy banget berbicara seakan vendor baju itu kita yang butuh, walau gayanya seperti sudah super well prepared banget dengan spesifikasi seakan-akan ordernya sudah seperti H&M yang jumlahnya puluhan ribu, tapi manner tidak terjaga. Biasanya untuk kasus seperti itu saya balik jutek. Eye for an eye isnt it? hehehe..
 
 Dengan banyaknya chat seperti diatas maka saya bisa pastikan banyak yang ingin memulai bisnis dagang baju (dimana itu sangat bagus) namun belum mendapat informasi *ke tipe vendor produksi baju mana saya harus menjalin hubungan kerja?*. Nah yuk mari kita bahas perbedaan antara pabrik garmen, konveksi kodian dan jahit halus.
