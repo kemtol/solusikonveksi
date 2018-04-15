@@ -26,8 +26,8 @@ Kira kira seperti itulah pembicaraan saya dengan ibu-ibu calon pengusaha baju. K
 
 Dengan banyaknya chat seperti diatas maka saya bisa pastikan banyak yang ingin memulai bisnis dagang baju (dimana itu sangat bagus) namun belum mendapat informasi *ke tipe vendor produksi baju mana saya harus menjalin hubungan kerja?*. Nah yuk mari kita bahas perbedaan antara pabrik garmen, konveksi kodian dan jahit halus.
 
-## Pabrik baju atau biasa disebut garmen
-**Agar lebih mudah dipahami:**<br/>Pabrik garmen atau pabrik baju adalah fasilitas produksi skala besar, supply baju ini tidak cocok untuk UKM.
+## 1. Pabrik baju atau garmen
+**Garis besar:**<br/>Pabrik garmen atau pabrik baju adalah fasilitas produksi skala besar, supply baju ini tidak cocok untuk UKM.
 
 **Contoh:**<br/>PT Sritex di solo melayani pembuatan secara *Full Order Buy** (FOB) seragam militer untuk keperluan angkatan bersenjata di beberapa negara.
 
@@ -37,8 +37,8 @@ Jika ibu dan bapak datang ke mall lalu melihat basic apparel seperti celana dala
 
 **Minimum order**<br/>MOQ (Minimum Order Quantity) mereka setidaknya adalah 10.000 pcs.
 
-## Konveksi Baju
-**Agar lebih mudah dipahami:**<br/>Konveksi adalah fasilitas produksi skala kecil menengah, supply baju ini cocok untuk UKM.
+## 2. Konveksi Baju
+**Garis besar:**<br/>Konveksi adalah fasilitas produksi skala kecil menengah, supply baju ini cocok untuk UKM.
 
 **Contoh:**<br/>Konveksi kaos, konveksi seragam, konveksi baju muslim, konveksi jaket, dll..
 
@@ -46,4 +46,16 @@ Jika ibu dan bapak datang ke mall lalu melihat basic apparel seperti celana dala
 
 **Minimum order:**<br/>MOQ (Minimum Order Quantity) dari konveksi biasanya adalah 2 atau 3 lusin per modelnya.
 
-Lebih lanjut untuk jahit halus kita lanjut besok ya..
+## 3. Jahit Halus atau Penjahit
+**Garis besar:**<br/>Istilah jahit halus pada dasarnya adalah istilah untuk penjahit, supply baju ini cocok untuk butik. Mereka lebih tepat disebut artisan ketimbang operator jahit.
+
+**Contoh:**<br/>Jahit halus baju pesta, penjahit baju wedding, jahit halus butik muslim premium seperti dian pelangi.
+
+**Penjelasan detail:**<br/>Jahit halus adalah istilah yang disematkan untuk penjahit dengan tingkat kerapihan dan ketelitian yang tinggi. Penjahit ini lazim digunakan untuk supply butik dan line baju premium, ciri-ciri yang paling terlihat adalah mereka menerima pekerjaan detailing seperti payet dan bordir tangan. Kualitas hasil akhir produk jauh lebih rapi bila dibandingkan dengan konveksi. Tentu dibalik hasil yang lebih baik muncul faktor biaya yang lebih tinggi.
+
+Saat ini banyak konveksi yang melabeli bisnisnya dengan jahit halus, memang mungkin saja tapi saya yakin terdapat beberapa jenis pekerjaan yang tidak dapat mereka tangani, karena memang tuntutan dan fasilitas yang tidak mendukung.
+
+**Minimum order:**<br/>MOQ (Minimum Order Quantity) dari jahit halus adalah 1 pcs.
+
+## Penutup
+Dengan penjelasan diatas maka jelas bahwa banyak ibu/bapak yang tertukar antara ketiganya. Diaharapkan dengan adanya artikel ini dapat memberi pencerahan buat ibu/bapak ketika ingin mencari fasilitas produksi yang sesuai.
